@@ -4,18 +4,4 @@ permalink: "/next-stops"
 layout: page
 ---
 
-## Heading
-We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
-
-## Our students have secured internships with:
-- Congresswoman Allyson Schwartz
-- Philadelphia Magazine
-- The Please Touch Museum
-- American Lung Association
-
-## Recently, our alumni have secured coveted positions with the following employers:
-
-- Patient access representative at St. Luke’s University Health Network
-- Digital media coordinator at Love Beets
-- Therapeutic staff support at Foundations Behavioral Health
-- Teen education coordinator at Kingsbridge Heights Community Center
+Students who have taken courses in Asian and Middle Eastern Languages and Studies have gone on to careers and graduate education in a wide range of fields, from business and government to education and the media. In addition to language skills, our programs provide students with career-related skills that will prove useful in many professions; such as written and oral communication, multicultural and interpersonal skills, analytic and creative thinking, and research and information literacy. 
