@@ -9,3 +9,4 @@ The Department of Asian and Middle Eastern Languages and Studies offers majors i
 
 ![]({{site.baseurl}}/media/iStock_Chinese%20Junkboat%20Victoria%20Harbor.jpg)![iStock_Chinese Junkboat Victoria Harbor.jpg]({{site.baseurl}}/media/iStock_Chinese Junkboat Victoria Harbor.jpg)
 
+![]({{site.baseurl}}/media/iStock_Korean%20Lanterns.jpg)
