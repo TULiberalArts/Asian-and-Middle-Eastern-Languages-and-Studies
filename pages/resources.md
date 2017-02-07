@@ -13,17 +13,17 @@ For a complete list of our academic offerings visit [liberalarts.temple.edu](lib
 
 ## Visit Us
 
-The Office of Admissions offers tours daily. To register for a tour, please go to temple.edu/visit
+The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](temple.edu/visit)
 If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit  opportunities we have throughout the year, including the Liberal Arts Preview Day.   
-For more information, please go to: liberalarts.temple.edu/admissions/visit
+For more information, please go to: [liberalarts.temple.edu/admissions/visit](liberalarts.temple.edu/admissions/visit)
 
-## Thinking of transferring
+## Thinking of Transferring
 
-The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.   To learn more about transferring to Temple, please visit temple.edu/transfer
+The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible. To learn more about transferring to Temple, please visit [temple.edu/transfer](temple.edu/transfer)
 
 ## Apply
 
-When you are ready to apply, submit your application online at admissions.temple.edu/app
+When you are ready to apply, submit your application online at [admissions.temple.edu/app](admissions.temple.edu/app)
 
 ## Deadlines
 
@@ -49,4 +49,4 @@ We strongly encourage our students to study for a semester or more in one of the
 
 For questions about placement, waivers, and assessments, please see the appropriate Arabic, Chinese, Japanese, Hebrew, Hindi, or Korean advisor.  For languages that are not taught at Temple or that are taught outside of the department, please contact [Ms. Peggy Shadding](mailto:peggy.shadding@temple.edu) for information.
 
-For languages not offered at the university, students have the option of taking an Alta Services Translation Assessment Exam. Students should print the form Foreign Language Assessment Request and Certification and complete the first two sections, “Student Identification Information” and “Language Background and Information.” Students should next meet with an advisor, bringing this form as well as any relevant documentation, such as a transcript or diploma, to demonstrate their background in the assessment language. Students should then create an account and pay for the exam service online at www.altatesting.com/purchase using group code TMPL. Once registered, students may then set up a time with Ms. Shadding for the exam to be proctored in her office. The exam is conducted orally via telephone.
+For languages not offered at the university, students have the option of taking an Alta Services Translation Assessment Exam. Students should print the form Foreign Language Assessment Request and Certification and complete the first two sections, “Student Identification Information” and “Language Background and Information.” Students should next meet with an advisor, bringing this form as well as any relevant documentation, such as a transcript or diploma, to demonstrate their background in the assessment language. Students should then create an account and pay for the exam service online at [www.altatesting.com/purchase](www.altatesting.com/purchase) using group code TMPL. Once registered, students may then set up a time with Ms. Shadding for the exam to be proctored in her office. The exam is conducted orally via telephone.
