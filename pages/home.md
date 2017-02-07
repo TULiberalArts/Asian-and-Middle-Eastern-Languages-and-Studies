@@ -11,9 +11,6 @@ The Department of Asian and Middle Eastern Languages and Studies offers majors i
 
 ![iStock_Korean Lanterns.jpg]({{site.baseurl}}/media/iStock_Korean%20Lanterns.jpg)
 
-![]({{site.baseurl}}/media/iStock_Arabic%20Nabawi%20Mosque.jpg)
-
 ![iStock_Arabic Nabawi Mosque.jpg]({{site.baseurl}}/media/iStock_Arabic Nabawi Mosque.jpg)
 
-![]({{site.baseurl}}/media/iStock_Japanese%20Mt.%20Fuji.jpg)![iStock_Japanese Mt. Fuji.jpg]({{site.baseurl}}/media/iStock_Japanese Mt. Fuji.jpg)
-
+![iStock_Japanese Mt. Fuji.jpg]({{site.baseurl}}/media/iStock_Japanese Mt. Fuji.jpg)
