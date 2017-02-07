@@ -1,26 +1,26 @@
 -  name: "Louis Mangione"
-  title: <i>Associate Professor of Chinese</i>
-  room: "347"
-  building: "Anderson Hall"
-  email: "mangione@temple.edu"
-  phone: "2152048247"
-  website: ""
-  photo: "http://liberalarts.temple.edu/sites/liberalarts/files/Louis%20Mangione.jpg"
-  expertise: "Arabic language, Modern Arabic literature, Arab cinema, Syrian literature, Culture/s of the Arab spring"
-  bio: >
-    Louis Mangione is an associate professor in the Department of Asian and Middle Eastern Languages and Studies. He has taught Chinese since coming to Temple in 1985.  He also teaches classes in Asian Studies and on the Chinese language. His academic interests include semantics and traditional ballads in Zhejiang.
+   title: <i>Associate Professor of Chinese</i>
+   room: "347"
+   building: "Anderson Hall"
+   email: "mangione@temple.edu"
+   phone: "2152048247"
+   website: ""
+   photo: "http://liberalarts.temple.edu/sites/liberalarts/files/Louis%20Mangione.jpg"
+   expertise: "Arabic language, Modern Arabic literature, Arab cinema, Syrian literature, Culture/s of the Arab spring"
+   bio: >
+     Louis Mangione is an associate professor in the Department of Asian and Middle Eastern Languages and Studies. He has taught Chinese since coming to Temple in 1985.  He also teaches classes in Asian Studies and on the Chinese language. His academic interests include semantics and traditional ballads in Zhejiang.
 
-  name: "Alexa Firat, Ph.D."
-  title: <i>Assistant Professor of Arabic</i>
-  room: "334"
-  building: "Anderson Hall"
-  email: "afirat@temple.edu"
-  phone: "2152048268"
-  website: ""
-  photo: "http://www.cla.temple.edu/wp-content/uploads/2017/01/Alexa-Firat.jpg"
-  expertise: "Arabic language, Modern Arabic literature, Arab cinema, Syrian literature, Culture/s of the Arab spring"
-  bio: >
-    PhD, University of Pennsylvania; MA, University of Texas at Austin
+ - name: "Alexa Firat, Ph.D."
+   title: <i>Assistant Professor of Arabic</i>
+   room: "334"
+   building: "Anderson Hall"
+   email: "afirat@temple.edu"
+   phone: "2152048268"
+   website: ""
+   photo: "http://www.cla.temple.edu/wp-content/uploads/2017/01/Alexa-Firat.jpg"
+   expertise: "Arabic language, Modern Arabic literature, Arab cinema, Syrian literature, Culture/s of the Arab spring"
+   bio: >
+     PhD, University of Pennsylvania; MA, University of Texas at Austin
 
 - name: "Gordon Witty"
   title: <i>Assistant Professor of Arabic</i>
@@ -91,7 +91,8 @@
   website: ""
   photo: "http://www.cla.temple.edu/wp-content/uploads/2017/01/Ilana-Margolis.jpg"
   expertise: "Hebrew, Israel, Culture, History"
-  bio: "Ilana Margolis is a native of Tel Aviv, Israel. She hold a BA in Hebrew Literature from Tel Aviv University and an MA in Jewish Studies from Gratz College. She is a member of the National Association of Professors of Hebrew, and has over 16 years' acadenic Hebrew experience in venues throughout the Delaware Valley."
+  bio: >
+    Ilana Margolis is a native of Tel Aviv, Israel. She hold a BA in Hebrew Literature from Tel Aviv University and an MA in Jewish Studies from Gratz College. She is a member of the National Association of Professors of Hebrew, and has over 16 years' acadenic Hebrew experience in venues throughout the Delaware Valley."
 
 - name: "Barbara Thornbury"
   title: <i>Professor of Japanese</i>
