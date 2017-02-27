@@ -11,7 +11,7 @@ The Department of Asian and Middle Eastern Languages and Studies offers majors i
 
 ## BOX NUMBER 1 [Study Abroad In Asia And The Middle East](http://studyabroad.temple.edu/) 
 
-We strongly encourage our students to study for a  semester or more in one of the countries they learn about  in the Arabic, Asian Studies, Chinese, and Japanese  curriculums.  Study abroad that includes participation in an intensive language program is an especially valuable way for students to develop a high level of proficiency in the  language they are studying.
+We strongly encourage our students to study for a  semester or more in one of the countries they learn about  in the Arabic, Asian Studies, Chinese, and Japanese  curriculums. Study abroad that includes participation in an intensive language program is an especially valuable way for students to develop a high level of proficiency in the  language they are studying.
 
 ## BOX NUMBER 2 [Connect With The World Around You](https://www.ciee.org/)
 
