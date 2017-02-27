@@ -27,18 +27,18 @@ For languages not offered at the university, students have the option of taking 
 
 ## Resources
 
-- [Temple Programs](http://www.temple.edu/studyabroad/) (Japan, China, India) 
+- [Temple Programs](http://www.temple.edu/studyabroad/)(Japan, China, India) 
 - [AIFS](https://www.aifsabroad.com/) (China, India)	
-- [Coucil on International Education Exchange](https://www.ciee.org/) (Cambodia, China, India, Japan, S. Korea, Taiwan, Thailand, Vietnam) 
-- [Korea University International Summer Campus](http://iie.korea.ac.kr/all/src/main/main.php)(S. Korea)
-- [Yonsei University Internationl Summer School](http://summer.yonsei.ac.kr/new/text.asp?mid=001001000&mo=1)(S. Korea)	
+- [Coucil on International Education Exchange](https://www.ciee.org/)(Cambodia, China, India, Japan, S. Korea, Taiwan, Thailand, Vietnam) 
+- [Korea University International Summer Campus](http://iie.korea.ac.kr/all/src/main/main.php) (S. Korea)
+- [Yonsei University Internationl Summer School](http://summer.yonsei.ac.kr/new/text.asp?mid=001001000&mo=1) (S. Korea)	
  
 Links to Study Abroad Scholarships:
 
-- [Boren Scholarships](https://www.borenawards.org/)(Asia)
-- [Bridging Scholarship](http://www.colorado.edu/ealld/atj/Bridging/scholarships.html)(Japan)	
-- [Critical Languages Scholarship](https://clscholarship.org/home.php)(Bengali, Chinese, Hindi, Korean, Punjabi, Urdu)
-- [Fulbright Grants](http://us.fulbrightonline.org/about.html)(Asia)
+- [Boren Scholarships](https://www.borenawards.org/) (Asia)
+- Bridging Scholarship (Japan)	
+- [Critical Languages Scholarship](https://clscholarship.org/home.php) (Bengali, Chinese, Hindi, Korean, Punjabi, Urdu)
+- Fulbright Grants (Asia)
  
 Links to Internships:
 
@@ -46,5 +46,17 @@ Links to Internships:
 
 Websites to Assist Language Learning:
 
-- [www.japanesepod101.com](http://www.japanesepod101.com/) (Japanese) 
-- [www.teenkorean.com](http://teenkorean.com/) Korean)
+- [www.japanesepod101.com] (http://www.japanesepod101.com/) (Japanese) 
+- [www.teenkorean.com] (http://teenkorean.com/) (Korean)
+
+## Temple University's East - West Club!
+
+Temple University's East - West club (EWC) would like to welcome all Asian studies majors, minors, certificates, and anyone who has an active interest in Asian culture and its relation to the West. Our goal is to further our understanding of the relationships between Eastern and Western cultures and, in addition, to expand our knowledge of Asian cultures. Part of the EWC's objective is to both experience and deepen our understanding of other cultures in order to bring diversity in both our academic careers and in life. We hope all members will utilize what they have experienced as part of the EWC and further bridge the gap between Asian and American culture, as our activities span from indoor meetings to field trips and to events targeted for the whole student body.
+
+The EWC's objectives are not restricted to academic purposes only. We are both an academic and social club, and our club curriculum reflects as such.
+
+If you are a student at Temple University and are interested in furthering your knowledge or believe you can contirbute to our understanding of East to West relations -- please come join us!
+
+The EWC meets once every two weeks on Thursday, from 6-7pm at Barton Hall, room 205B.
+ 
+To view our upcoming events check out our [Facebook](http://www.facebook.com/home.php#!/group.php?gid=345619485455) page!
