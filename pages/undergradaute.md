@@ -3,19 +3,6 @@ title: Undergraduate
 permalink: "/undergraduate/"
 layout: page
 ---
-
-## Study Abroad In Asia And The Middle East
-
-We strongly encourage our students to study for a  semester or more in one of the countries they learn about  in the Arabic, Asian Studies, Chinese, and Japanese  curriculums.  Study abroad that includes participation in an intensive language program is an especially valuable way for students to develop a high level of proficiency in the  language they are studying.
-
-## Connect With The World Around You
-
-In addition to language proficiency, our courses help  students develop a deep understanding of East Asia and the Middle East. They learn the skills needed to connect globally.
-
-## Study Literature, Film And Popular Culture
-
-Asian and Middle Eastern Languages and Studies courses in literature, film and popular culture — all given in translation — invite students from any major to develop familiarity with the cultures of China, Japan, and the Middle East.
-
 ## Study Asia From An Interdisciplinary Perspective
 
 The Asian Studies curriculum offers courses in fields such as politics, history, society, art, religion, philosophy, and  literature.  These courses give all students the opportunity to understand and intellectually engage with the countries and regions of Asia.
