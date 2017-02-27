@@ -30,15 +30,15 @@ For languages not offered at the university, students have the option of taking 
 - [Temple Programs] (http://www.temple.edu/studyabroad/) (Japan, China, India) 
 - [AIFS](https://www.aifsabroad.com/) (China, India)	
 - [Coucil on International Education Exchange] (https://www.ciee.org/) (Cambodia, China, India, Japan, S. Korea, Taiwan, Thailand, Vietnam) 
-- [Korea University International Summer Campus] (http://iie.korea.ac.kr/all/src/main/main.php)(S. Korea)
-- [Yonsei University Internationl Summer School] (http://summer.yonsei.ac.kr/new/text.asp?mid=001001000&mo=1)(S. Korea)	
+- [Korea University International Summer Campus] (http://iie.korea.ac.kr/all/src/main/main.php) (S. Korea)
+- [Yonsei University Internationl Summer School] (http://summer.yonsei.ac.kr/new/text.asp?mid=001001000&mo=1) (S. Korea)	
  
 Links to Study Abroad Scholarships:
 
 - [Boren Scholarships] (https://www.borenawards.org/) (Asia)
 - [Bridging Scholarship] (http://www.colorado.edu/ealld/atj/Bridging/scholarships.html) (Japan)	
-- [Critical Languages Scholarship] (https://clscholarship.org/home.php)(Bengali, Chinese, Hindi, Korean, Punjabi, Urdu)
-- [Fulbright Grants] (http://us.fulbrightonline.org/about.html)(Asia)
+- [Critical Languages Scholarship] (https://clscholarship.org/home.php) (Bengali, Chinese, Hindi, Korean, Punjabi, Urdu)
+- [Fulbright Grants] (http://us.fulbrightonline.org/about.html) (Asia)
  
 Links to Internships:
 
@@ -47,4 +47,4 @@ Links to Internships:
 Websites to Assist Language Learning:
 
 - [www.japanesepod101.com] (http://www.japanesepod101.com/) (Japanese) 
-- [www.teenkorean.com] (http://teenkorean.com/) Korean)
+- [www.teenkorean.com] (http://teenkorean.com/) (Korean)
