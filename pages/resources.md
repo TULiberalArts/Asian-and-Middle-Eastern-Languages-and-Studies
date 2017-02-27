@@ -36,9 +36,9 @@ For languages not offered at the university, students have the option of taking 
 Links to Study Abroad Scholarships:
 
 - [Boren Scholarships](https://www.borenawards.org/) (Asia)
-- [Bridging Scholarship](http://www.colorado.edu/ealld/atj/Bridging/scholarships.html) (Japan)	
+- Bridging Scholarship (Japan)	
 - [Critical Languages Scholarship](https://clscholarship.org/home.php) (Bengali, Chinese, Hindi, Korean, Punjabi, Urdu)
-- [Fulbright Grants](http://us.fulbrightonline.org/about.html) (Asia)
+- Fulbright Grants (Asia)
  
 Links to Internships:
 
