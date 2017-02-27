@@ -46,8 +46,8 @@ Links to Internships:
 
 Websites to Assist Language Learning:
 
-- [www.japanesepod101.com] (http://www.japanesepod101.com/) (Japanese) 
-- [www.teenkorean.com] (http://teenkorean.com/) (Korean)
+- [www.japanesepod101.com](http://www.japanesepod101.com/) (Japanese) 
+- [www.teenkorean.com](http://teenkorean.com/) (Korean)
 
 ## Temple University's East - West Club!
 
