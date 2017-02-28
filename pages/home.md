@@ -17,6 +17,6 @@ We strongly encourage our students to study for a  semester or more in one of th
 
 In addition to language proficiency, our courses help  students develop a deep understanding of East Asia and the Middle East. They learn the skills needed to connect globally.
 
-## BOX NUMBER 3 Study Literature, Film And Popular Culture
+## BOX NUMBER 3 [Study Literature, Film And Popular Culture](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-middle-eastern-languages-studies/#courseinventory)
 
 Asian and Middle Eastern Languages and Studies courses in literature, film and popular culture — all given in translation — invite students from any major to develop familiarity with the cultures of China, Japan, and the Middle East.
