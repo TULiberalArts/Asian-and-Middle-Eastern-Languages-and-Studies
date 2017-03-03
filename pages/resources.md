@@ -7,6 +7,19 @@ published: true
 
 ## Resources here here to help!
 
+**Chair**
+
+Louis Mangione
+347 Anderson Hall
+mangione@temple.edu
+
+**Administrator** 
+
+Michelle Pugliese
+429 Anderson Hall
+[(215) 204-5628](tel:2152045628)
+pugliese@temple.edu
+
 ## Study Abroad
 
 We strongly encourage our students to study for a semester or more in one of the countries they learn about in the Arabic, Asian Studies, Chinese, and Japanese curriculums. Study abroad that includes participation in an intensive language program is an especially valuable way for students to develop a high level of proficiency in the language they are studying. These programs are designed to improve participants’ oral, listening, reading, and writing proficiency in their target language as well as developing their knowledge regarding the history, politics, culture and society of that country. Combining intensive language classes with experience abroad prepares students to compete for careers on a global level. Credits earned through the study abroad programs may be used toward a minor and/or certificate.
