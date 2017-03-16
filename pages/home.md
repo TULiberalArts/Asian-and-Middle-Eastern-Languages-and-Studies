@@ -4,8 +4,8 @@ permalink: /
 layout: home
 feature: false
 feature-title: 
-feature-body: 
-feature-image: 
+feature-body:
+feature-image:
 published: true
 ---
 
