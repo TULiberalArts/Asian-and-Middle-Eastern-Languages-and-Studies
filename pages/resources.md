@@ -7,13 +7,14 @@ published: true
 
 ## Resources here here to help!
 
-**Chair**
+## Chair
 
 Louis Mangione
 347 Anderson Hall
+[(215)204-8247](tel:2152048247)
 [mangione@temple.edu](mailto:mangione@temple.edu)
 
-**Administrator** 
+## Administrator
 
 Michelle Pugliese
 429 Anderson Hall
