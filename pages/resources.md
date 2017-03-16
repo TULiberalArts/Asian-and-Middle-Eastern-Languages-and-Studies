@@ -9,17 +9,17 @@ published: true
 
 ## Chair
 
-Louis Mangione
-347 Anderson Hall
-[(215)204-8247](tel:2152048247)
-[mangione@temple.edu](mailto:mangione@temple.edu)
+Louis Mangione<br />
+347 Anderson Hall<br />
+[(215)204-8247](tel:2152048247)<br />
+[mangione@temple.edu](mailto:mangione@temple.edu)<br />
 
 ## Administrator
 
-Michelle Pugliese
-429 Anderson Hall
-[(215) 204-5628](tel:2152045628)
-[pugliese@temple.edu](mailto:pugliese@temple.edu)
+Michelle Pugliese<br />
+429 Anderson Hall<br />
+[(215) 204-5628](tel:2152045628)<br />
+[pugliese@temple.edu](mailto:pugliese@temple.edu)<br />
 
 ## Study Abroad
 
