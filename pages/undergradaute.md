@@ -14,9 +14,9 @@ layout: page
   <div class="course-box">
     <b>Areas of Study:</b>
     <ul>
-    <li><a href="develop.cla.temple.edu/chinese/" title="Chinese">Chinese</a></li>
-    <li><a href="develop.cla.temple.edu/japanese/" title="Japanese">Japanese</a></li>
-    <li><a href="develop.cla.temple.edu/arabic/" title="Arabic">Arabic</a></li>
+    <li><a href="www.cla.temple.edu/chinese/" title="Chinese">Chinese</a></li>
+    <li><a href="www.cla.temple.edu/japanese/" title="Japanese">Japanese</a></li>
+    <li><a href="www.cla.temple.edu/arabic/" title="Arabic">Arabic</a></li>
     </ul>
     </div>
 </div>
