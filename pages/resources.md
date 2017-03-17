@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-## Resources here here to help!
+## Resources are here to help!
 
 ## Chair
 
