@@ -5,16 +5,16 @@ layout: page
 published: true
 ---
 
-## Resources are here to help!
+## Contacts
 
-## Chair
+### Chair
 
 Louis Mangione<br />
 347 Anderson Hall<br />
 [(215)204-8247](tel:2152048247)<br />
 [mangione@temple.edu](mailto:mangione@temple.edu)<br />
 
-## Administrator
+### Administrator
 
 Michelle Pugliese<br />
 429 Anderson Hall<br />
@@ -35,11 +35,11 @@ We strongly encourage our students to study for a semester or more in one of the
 - [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
 - Foreign Language Placement, Waiver, and Assessment Requests:
 
-For questions about placement, waivers, and assessments, please see the appropriate Arabic, Chinese, Japanese, Hebrew, Hindi, or Korean advisor.  For languages that are not taught at Temple or that are taught outside of the department, please contact [Ms. Peggy Shadding](mailto:peggy.shadding@temple.edu) for information.
+For questions about placement, waivers, and assessments, please see the appropriate Arabic, Chinese, Japanese, Hebrew, Hindi, or Korean advisor. For languages that are not taught at Temple or that are taught outside of the department, please contact [Ms. Peggy Shadding](mailto:peggy.shadding@temple.edu) for information.
 
 For languages not offered at the university, students have the option of taking an Alta Services Translation Assessment Exam. Students should print the form Foreign Language Assessment Request and Certification and complete the first two sections, “Student Identification Information” and “Language Background and Information.” Students should next meet with an advisor, bringing this form as well as any relevant documentation, such as a transcript or diploma, to demonstrate their background in the assessment language. Students should then create an account and pay for the exam service online at [www.altatesting.com/purchase](www.altatesting.com/purchase) using group code TMPL. Once registered, students may then set up a time with Ms. Shadding for the exam to be proctored in her office. The exam is conducted orally via telephone.
 
-## Resources
+## Additional Resources
 
 - [Temple Programs](http://www.temple.edu/studyabroad/)(Japan, China, India) 
 - [AIFS](https://www.aifsabroad.com/) (China, India)	
@@ -47,18 +47,18 @@ For languages not offered at the university, students have the option of taking 
 - [Korea University International Summer Campus](http://iie.korea.ac.kr/all/src/main/main.php) (S. Korea)
 - [Yonsei University Internationl Summer School](http://summer.yonsei.ac.kr/new/text.asp?mid=001001000&mo=1) (S. Korea)	
  
-Links to Study Abroad Scholarships:
+**Links to Study Abroad Scholarships:**
 
 - [Boren Scholarships](https://www.borenawards.org/) (Asia)
 - Bridging Scholarship (Japan)	
 - [Critical Languages Scholarship](https://clscholarship.org/home.php) (Bengali, Chinese, Hindi, Korean, Punjabi, Urdu)
 - Fulbright Grants (Asia)
  
-Links to Internships:
+**Links to Internships:**
 
-- Intrax Internships Abroad	
+- [Intrax Internships Abroad](https://www.globalinternships.com/)
 
-Websites to Assist Language Learning:
+**Websites to Assist Language Learning:**
 
 - [www.japanesepod101.com](http://www.japanesepod101.com/) (Japanese) 
 - [www.teenkorean.com](http://teenkorean.com/) (Korean)
@@ -71,6 +71,6 @@ The EWC's objectives are not restricted to academic purposes only. We are both a
 
 If you are a student at Temple University and are interested in furthering your knowledge or believe you can contirbute to our understanding of East to West relations -- please come join us!
 
-The EWC meets once every two weeks on Thursday, from 6-7pm at Barton Hall, room 205B.
+The EWC meets once every two weeks on Thursday, from 6-7 p.m. at Barton Hall, room 205B.
  
 To view our upcoming events check out our [Facebook](http://www.facebook.com/home.php#!/group.php?gid=345619485455) page!
