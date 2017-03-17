@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-## Contacts
+## Contacts Us:
 
 ### Chair
 
