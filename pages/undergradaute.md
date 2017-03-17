@@ -1,11 +1,12 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate/"
+permalink: /undergraduate/
 layout: page
+published: true
 ---
 <div class="row">
 <div class="col m12 l8">
-  <h2>Study Asia From An Interdisciplinary Perspective</h2>
+  <h2>Study Asia From an Interdisciplinary Perspective</h2>
   <p>
     The Asian Studies curriculum offers courses in fields such as politics, history, society, art, religion, philosophy, and  literature.  These courses give all students the opportunity to understand and intellectually engage with the countries and regions of Asia.
   </p>
@@ -14,9 +15,9 @@ layout: page
   <div class="course-box">
     <b>Areas of Study:</b>
     <ul>
-    <li><a href="www.cla.temple.edu/chinese/" title="Chinese">Chinese</a></li>
-    <li><a href="www.cla.temple.edu/japanese/" title="Japanese">Japanese</a></li>
-    <li><a href="www.cla.temple.edu/arabic/" title="Arabic">Arabic</a></li>
+    <li><a href="http://www.cla.temple.edu/chinese/" title="Chinese">Chinese</a></li>
+    <li><a href="http://www.cla.temple.edu/japanese/" title="Japanese">Japanese</a></li>
+    <li><a href="http://www.cla.temple.edu/arabic/" title="Arabic">Arabic</a></li>
     </ul>
     </div>
 </div>
@@ -43,4 +44,4 @@ Certificate programs require completion of six skill-based courses, beginning wi
 
 ## Studies in Hebrew, Hindi, and Korean
 
-Our department offers courses that help students develop a usable proficiency in Hebrew, Hindi, and Korean.  With these skills, students have gone on to careers in education, government, business, and other areas.  Students have also used their knowledge of these languages to pursue advanced studies.
+Our department offers courses that help students develop a usable proficiency in Hebrew, Hindi, and Korean. With these skills, students have gone on to careers in education, government, business, and other areas. Students have also used their knowledge of these languages to pursue advanced studies.
