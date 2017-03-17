@@ -16,7 +16,7 @@ layout: page
     <ul>
     <li><a href="www.cla.temple.edu/chinese/" title="Chinese">Chinese</a></li>
     <li><a href="www.cla.temple.edu/japanese/" title="Japanese">Japanese</a></li>
-    <li><a href="www. cla.temple.edu/arabic/" title="Arabic">Arabic</a></li>
+    <li><a href="www.cla.temple.edu/arabic/" title="Arabic">Arabic</a></li>
     </ul>
     </div>
 </div>
