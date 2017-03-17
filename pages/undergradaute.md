@@ -3,9 +3,24 @@ title: Undergraduate
 permalink: "/undergraduate/"
 layout: page
 ---
-## Study Asia From An Interdisciplinary Perspective
-
-The Asian Studies curriculum offers courses in fields such as politics, history, society, art, religion, philosophy, and  literature.  These courses give all students the opportunity to understand and intellectually engage with the countries and regions of Asia.
+<div class="row">
+<div class="col m12 l8">
+  <h2>Study Asia From An Interdisciplinary Perspective</h2>
+  <p>
+    The Asian Studies curriculum offers courses in fields such as politics, history, society, art, religion, philosophy, and  literature.  These courses give all students the opportunity to understand and intellectually engage with the countries and regions of Asia.
+  </p>
+</div>
+<div class="col m12 l4"><br>
+  <div class="course-box">
+    <b>Areas of Study:</b>
+    <ul>
+    <li><a href="www.cla.temple.edu/chinese/" title="Chinese">Chinese</a></li>
+    <li><a href="www.cla.temple.edu/japanese/" title="Japanese">Japanese</a></li>
+    <li><a href="www. cla.temple.edu/arabic/" title="Arabic">Arabic</a></li>
+    </ul>
+    </div>
+</div>
+</div>
 
 ## Academic offerings
 
