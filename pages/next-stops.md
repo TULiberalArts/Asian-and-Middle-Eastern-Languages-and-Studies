@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-Our students go on to careers and graduate education in a wide range of fields, from business and government to education and the media. In addition to language skills, our programs provide students with career-related prowess that prove useful in many professions. You will graduate with strong experience in written and oral communication, multicultural and interpersonal relations, analytic and creative thinking, and research and information literacy.
+Our students go on to careers and graduate education in a wide range of fields, from business and government to education and the media. In addition to language skills, our programs provide students with talents that prove useful in many professions. You will graduate with strong experience in written and oral communication, multicultural and interpersonal relations, analytical and creative thinking, and research and information literacy.
 
 ## Make your Declaration
 
@@ -31,7 +31,7 @@ When you are ready to apply, submit your application online at [admissions.templ
 
 ## Deadlines
 
-- February 1: Freshman Application Deadline for Fall Semester
-- March 1: FAFSA Financial Aid Application Deadline
-- November 1: Transfer Deadline for Spring Semester
-- June 1: Transfer Deadline for Fall Semester
+- **February 1:** Freshman Application Deadline for Fall Semester
+- **March 1:** FAFSA Financial Aid Application Deadline
+- **November 1:** Transfer Deadline for Spring Semester
+- **June 1:** Transfer Deadline for Fall Semester
