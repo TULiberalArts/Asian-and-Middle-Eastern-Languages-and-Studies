@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-Our students go on to careers and graduate education in a wide range of fields, from business and government to education and the media. In addition to language skills, our programs provide students with career-related prowess that prove useful in many professions. You will graduate with strong experience in written and oral communication, multicultural and interpersonal relations, analytic and creative thinking, and research and information literacy.
+Our students go on to careers and graduate education in a wide range of fields, from business and government to education and the media. In addition to language skills, our programs provide students with talents that prove useful in many professions. You will graduate with strong experience in written and oral communication, multicultural and interpersonal relations, analytical and creative thinking, and research and information literacy.
 
 ## Make your Declaration
 
