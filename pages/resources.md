@@ -31,7 +31,7 @@ We strongly encourage our students to study for a semester or more in one of the
 - [Japanese Summer Semester in Tokyo, Japan](https://studyabroad.temple.edu/sites/temple-japan-summer)
 - [Korean Semester/Year Exchange Programs in Seoul or Ansan, Korea](https://studyabroad.temple.edu/temple-exchanges/korea-exchanges)
 
-**Additional Study Abroad Resources
+**Additional Study Abroad Resources**
 
 - [AIFS](https://www.aifsabroad.com/) (China, India)	
 - [Coucil on International Education Exchange](https://www.ciee.org/) (Cambodia, China, India, Japan, S. Korea, Taiwan, Thailand, Vietnam) 
