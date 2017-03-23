@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-## Contact Us:
+## Contact Us
 
 ### Chair
 
@@ -51,6 +51,14 @@ We strongly encourage our students to study for a semester or more in one of the
 - [www.japanesepod101.com](http://www.japanesepod101.com/) (Japanese) 
 - [www.teenkorean.com](http://teenkorean.com/) (Korean)
 
+## Temple University's East - West Club
+
+Temple University's East - West club (EWC) would like to welcome all Asian studies majors, minors, certificates and anyone who has an active interest in Asian culture and its relation to the West. Our goal is to further our understanding of the relationships between Eastern and Western cultures and, in addition, to expand our knowledge of Asian cultures. Part of the EWC's objective is to both experience and deepen our understanding of other cultures in order to bring diversity in both our academic careers and in life. We hope all members will utilize what they have experienced as part of the EWC and further bridge the gap between Asian and American culture. Our activities span from meetings and field trips to events targeted for the whole student body.
+
+The EWC's objectives are not restricted to academic purposes only. We are both an academic and social club and our club curriculum reflects as such.
+
+If you are a student at Temple University and are interested in furthering your knowledge or believe you can contribute to our understanding of East to West relations, please come join us! The EWC meets once every two weeks on Thursday, from 6-7 p.m. at Barton Hall, room 205B. To view our upcoming events check out our [Facebook](http://www.facebook.com/home.php#!/group.php?gid=345619485455) page.
+
 ## Additional Resources
 
 **Quick Links**
@@ -65,11 +73,3 @@ We strongly encourage our students to study for a semester or more in one of the
 For questions about placement, waivers, and assessments, please see the appropriate Arabic, Chinese, Japanese, Hebrew, Hindi, or Korean advisor. For languages that are not taught at Temple or that are taught outside of the department, please contact [Ms. Peggy Shadding](mailto:peggy.shadding@temple.edu) for information.
 
 For languages not offered at the university, students have the option of taking an Alta Services Translation Assessment Exam. Students should print the form Foreign Language Assessment Request and Certification and complete the first two sections, “Student Identification Information” and “Language Background and Information.” Students should next meet with an advisor, bringing this form as well as any relevant documentation, such as a transcript or diploma, to demonstrate their background in the assessment language. Students should then create an account and pay for the exam service online at [www.altatesting.com/purchase](www.altatesting.com/purchase) using group code TMPL. Once registered, students may then set up a time with Ms. Shadding for the exam to be proctored in her office. The exam is conducted orally via telephone.
-
-## Temple University's East - West Club!
-
-Temple University's East - West club (EWC) would like to welcome all Asian studies majors, minors, certificates and anyone who has an active interest in Asian culture and its relation to the West. Our goal is to further our understanding of the relationships between Eastern and Western cultures and, in addition, to expand our knowledge of Asian cultures. Part of the EWC's objective is to both experience and deepen our understanding of other cultures in order to bring diversity in both our academic careers and in life. We hope all members will utilize what they have experienced as part of the EWC and further bridge the gap between Asian and American culture. Our activities span from meetings and field trips to events targeted for the whole student body.
-
-The EWC's objectives are not restricted to academic purposes only. We are both an academic and social club and our club curriculum reflects as such.
-
-If you are a student at Temple University and are interested in furthering your knowledge or believe you can contribute to our understanding of East to West relations, please come join us! The EWC meets once every two weeks on Thursday, from 6-7 p.m. at Barton Hall, room 205B. To view our upcoming events check out our [Facebook](http://www.facebook.com/home.php#!/group.php?gid=345619485455) page.
