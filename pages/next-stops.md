@@ -5,11 +5,11 @@ layout: page
 published: true
 ---
 
-Students who have taken courses in Asian and Middle Eastern Languages and Studies have gone on to careers and graduate education in a wide range of fields, from business and government to education and the media. In addition to language skills, our programs provide students with career-related skills that will prove useful in many professions; such as written and oral communication, multicultural and interpersonal skills, analytic and creative thinking, and research and information literacy.
+Our students go on to careers and graduate education in a wide range of fields, from business and government to education and the media. In addition to language skills, our programs provide students with career-related prowess that prove useful in many professions. You will graduate with strong experience in written and oral communication, multicultural and interpersonal relations, analytic and creative thinking, and research and information literacy.
 
 ## Make your Declaration
 
-The College of Liberal Arts has the largest selection of  academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.   
+The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.   
 
 For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu).
 
@@ -19,7 +19,7 @@ The Office of Admissions offers tours daily. To register for a tour, please go t
 
 If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.  
 
-For more information, please go to: [liberalarts.temple.edu/admissions/visit](liberalarts.temple.edu/admissions/visit).
+For more information, please go to [liberalarts.temple.edu/admissions/visit](liberalarts.temple.edu/admissions/visit).
 
 ## Thinking of Transferring?
 
