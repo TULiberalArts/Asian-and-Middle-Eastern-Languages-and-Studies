@@ -49,7 +49,7 @@ For languages not offered at the university, students have the option of taking 
 - [AIFS](https://www.aifsabroad.com/) (China, India)	
 - [Coucil on International Education Exchange](https://www.ciee.org/) (Cambodia, China, India, Japan, S. Korea, Taiwan, Thailand, Vietnam) 
 - [Korea University International Summer Campus](http://iie.korea.ac.kr/all/src/main/main.php) (S. Korea)
-- [Yonsei University Internationl Summer School](http://summer.yonsei.ac.kr/new/text.asp?mid=001001000&mo=1) (S. Korea)	
+- [Yonsei University International Summer School](http://summer.yonsei.ac.kr/new/text.asp?mid=001001000&mo=1) (S. Korea)	
  
 **Links to Study Abroad Scholarships:**
 
@@ -73,4 +73,4 @@ Temple University's East - West club (EWC) would like to welcome all Asian studi
 
 The EWC's objectives are not restricted to academic purposes only. We are both an academic and social club and our club curriculum reflects as such.
 
-If you are a student at Temple University and are interested in furthering your knowledge or believe you can contirbute to our understanding of East to West relations, please come join us! The EWC meets once every two weeks on Thursday, from 6-7 p.m. at Barton Hall, room 205B. To view our upcoming events check out our [Facebook](http://www.facebook.com/home.php#!/group.php?gid=345619485455) page.
+If you are a student at Temple University and are interested in furthering your knowledge or believe you can contribute to our understanding of East to West relations, please come join us! The EWC meets once every two weeks on Thursday, from 6-7 p.m. at Barton Hall, room 205B. To view our upcoming events check out our [Facebook](http://www.facebook.com/home.php#!/group.php?gid=345619485455) page.
