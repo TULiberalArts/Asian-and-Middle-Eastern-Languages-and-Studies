@@ -33,15 +33,15 @@ published: true
  - [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
  - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
 
-Our certificate programs are designed to enhance career opportunities in the public, private and nonprofit sectors. Certificates require completion of six skill-based courses, beginning with basic language studies for the true beginner.
+Our certificate programs are designed to enhance career opportunities in the public, private and nonprofit sectors. Certificates require completion of six skill-based courses, starting with basic language studies for the true beginner.
 
  - [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/certificate-specialization-arabic/)
  - [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/certificate-specialization-chinese/)
  - [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)
  - [Certificate in Asian Business and Society](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-business-society-certificate/)
 
-If you are interested in taking a course as a non-matriculated student, please contact the [Office of Continuing Education](http://www.temple.edu/academics/continuing-education)
+If you are interested in taking a course as a non-matriculated student, please contact the [Office of Continuing Education](http://www.temple.edu/academics/continuing-education).
 
 ## Studies in Hebrew, Hindi and Korean
 
-We offer courses to help you develop a usable proficiency in Hebrew, Hindi and Korean. With these skills, our students go on to careers in education, government, business and more. Students have also used their knowledge of these languages to pursue advanced studies.
+We offer courses to help you develop a usable proficiency in Hebrew, Hindi and Korean. With these skills, our students go on to careers in education, government, business and more. Students also use their knowledge of these languages to pursue advanced studies.
