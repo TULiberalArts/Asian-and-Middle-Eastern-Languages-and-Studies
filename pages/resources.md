@@ -41,9 +41,9 @@ We strongly encourage our students to study for a semester or more in one of the
 **Study Abroad Scholarships and Internships**
 
 - [Boren Scholarships](https://www.borenawards.org/) (Asia)
-- Bridging Scholarship (Japan)	
+- [Bridging Scholarship](http://www.aatj.org/studyabroad/japan-bridging-scholarships) (Japan)
 - [Critical Languages Scholarship](https://clscholarship.org/home.php) (Bengali, Chinese, Hindi, Korean, Punjabi, Urdu)
-- Fulbright Grants (Asia)
+- [Fulbright Grants](https://us.fulbrightonline.org/fulbright-us-student-program) (Asia)
 - [Intrax Internships Abroad](https://www.globalinternships.com/)
 
 **Websites to Assist Language Learning**
@@ -59,16 +59,7 @@ The EWC's objectives are not restricted to academic purposes only. We are both a
 
 If you are a student at Temple University and are interested in furthering your knowledge or believe you can contribute to our understanding of East to West relations, please come join us! The EWC meets once every two weeks on Thursday, from 6-7 p.m. at Barton Hall, room 205B. To view our upcoming events check out our [Facebook](http://www.facebook.com/home.php#!/group.php?gid=345619485455) page.
 
-## Additional Resources
-
-**Quick Links**
-
-- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
-- [Graduation Application process](http://www.temple.edu/registrar/students/graduation)
-- [Financing your Education](http://sfs.temple.edu)
-- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
-
-**Foreign Language Placement, Waiver and Assessment Requests**
+## Foreign Language Placement, Waiver and Assessment Requests
 
 For questions about placement, waivers, and assessments, please see the appropriate Arabic, Chinese, Japanese, Hebrew, Hindi, or Korean advisor. For languages that are not taught at Temple or that are taught outside of the department, please contact [Ms. Peggy Shadding](mailto:peggy.shadding@temple.edu) for information.
 
