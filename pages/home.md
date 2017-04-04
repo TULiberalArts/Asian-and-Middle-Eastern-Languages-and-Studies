@@ -6,8 +6,8 @@ feature: true
 feature-title: Major or Minor in Asian Studies
 feature-body: >-
   The Department of Asian and Middle Eastern Languages and Studies offers majors
-  in Asian Studies and Chinese, minors in Arabic, Asian Studies, Chinese, and
-  Japanese, certificates of language proficiency in Arabic, Chinese, and
+  in Asian Studies and Chinese, minors in Arabic, Asian Studies, Chinese and
+  Japanese, certificates of language proficiency in Arabic, Chinese and
   Japanese, and a certificate in Asian Business and Society. We also offer
   instruction in Hebrew, Hindi and Korean. We help students develop the language
   skills and cultural knowledge needed for careers and professions ranging from
