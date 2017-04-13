@@ -19,6 +19,12 @@ Michelle Pugliese<br />
 [(215) 204-5628](tel:2152045628)<br />
 [pugliese@temple.edu](mailto:pugliese@temple.edu)<br />
 
+### Coordinator:
+Peggy Shadding<br />
+330 Anderson Hall<br />
+[(215)204-8267](tel:2152048267)<br />
+[pshaddin@temple.edu](mailto:pshaddin@temple.edu)<br /> 
+
 ## Study Abroad
 
 We strongly encourage our students to study for a semester or more in one of the countries they learn about in the Arabic, Asian Studies, Chinese and Japanese curriculums. Study abroad that includes participation in an intensive language program is an especially valuable way for students to develop a high level of proficiency in the language they are studying. These programs are designed to improve participants’ oral, listening, reading and writing proficiency in their target language and develop their knowledge regarding the history, politics, culture and society of that country. Combining intensive language classes with experience abroad prepares students to compete for careers on a global level. Credits earned through the study abroad programs may be used toward a minor and/or certificate.
