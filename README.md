@@ -7,7 +7,7 @@ Asian Studies is statically generated with [Jekyll](https://jekyllrb.com) and ho
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/liberal-studies/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/asian-studies/ |
 
 ## Content Structure
 
