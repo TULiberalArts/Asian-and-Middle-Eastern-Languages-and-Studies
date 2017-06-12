@@ -1,5 +1,7 @@
 ---
 title: Home
+meta-description: 100 or so words
+meta-keywords: Chinese and Japanese, Asian Studies, language
 permalink: /
 layout: home
 feature: true
