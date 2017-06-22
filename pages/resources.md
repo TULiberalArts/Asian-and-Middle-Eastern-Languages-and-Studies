@@ -6,25 +6,7 @@ layout: page
 published: true
 ---
 
-## Contact Us
-
-### Chair:
-Louis Mangione<br />
-347 Anderson Hall<br />
-[(215) 204-8247](tel:2152048247)<br />
-[mangione@temple.edu](mailto:mangione@temple.edu)<br />
-
-### Administrator:
-Michelle Pugliese<br />
-429 Anderson Hall<br />
-[(215) 204-5628](tel:2152045628)<br />
-[pugliese@temple.edu](mailto:pugliese@temple.edu)<br />
-
-### Coordinator:
-Peggy Shadding<br />
-330 Anderson Hall<br />
-[(215)204-8267](tel:2152048267)<br />
-[pshaddin@temple.edu](mailto:pshaddin@temple.edu)<br /> 
+## Resources are here to help! 
 
 ## Study Abroad
 
