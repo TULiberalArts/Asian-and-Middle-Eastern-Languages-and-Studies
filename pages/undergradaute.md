@@ -1,11 +1,11 @@
 ---
 title: Undergraduate
-meta-keywords: specialization, Asian, minor
+meta-keywords: 'specialization, Asian, minor'
 permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Louis Mangione, Ph.D.  
    347 Anderson Hall  
@@ -27,6 +27,9 @@ sidebar-content: > #
    330 Anderson Hall    
    [(215) 204-8267](tel:2152048267)   
    [pshaddin@temple.edu](mailto:pshaddin@temple.edu)  
+meta-description: >-
+  Our Asian Studies curriculum offers courses in fields such as politics,
+  history,  society, art, religion, philosophy and literature.
 ---
 
 <div class="row">
