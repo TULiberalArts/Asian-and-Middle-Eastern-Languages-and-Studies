@@ -1,12 +1,11 @@
 ---
 title: Resources
-meta-keywords: contact, study abroad, language
+meta-keywords: 'contact, study abroad, language'
 permalink: /resources/
 layout: page
 published: true
 ---
-
-## Resources are here to help! 
+Learn about [study abroad options](#study-abroad), the popular [East-West club](#information), and [foreign language placement](#foreign-language-placement-waiver-and-assessment-requests).
 
 ## Study Abroad
 
@@ -39,6 +38,8 @@ We strongly encourage our students to study for a semester or more in one of the
 - [www.teenkorean.com](http://teenkorean.com/) (Korean)
 
 ## Temple University's East - West Club
+
+### Information
 
 Temple University's East - West club (EWC) would like to welcome all Asian studies majors, minors, certificates and anyone who has an active interest in Asian culture and its relation to the West. Our goal is to further our understanding of the relationships between Eastern and Western cultures and, in addition, to expand our knowledge of Asian cultures. Part of the EWC's objective is to both experience and deepen our understanding of other cultures in order to bring diversity in both our academic careers and in life. We hope all members will utilize what they have experienced as part of the EWC and further bridge the gap between Asian and American culture. Our activities span from meetings and field trips to events targeted for the whole student body.
 
