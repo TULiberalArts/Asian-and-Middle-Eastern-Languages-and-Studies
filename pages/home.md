@@ -1,7 +1,10 @@
 ---
 title: Home
-meta-description: 100 or so words
-meta-keywords: Chinese and Japanese, Asian Studies, language
+meta-description: >-
+  We help students develop the language skills and cultural knowledge needed
+  for  careers and professions ranging from business to government to education
+  and the  media.
+meta-keywords: 'Chinese and Japanese, Asian Studies, language'
 permalink: /
 layout: home
 feature: true
