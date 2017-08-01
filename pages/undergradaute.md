@@ -60,6 +60,8 @@ meta-description: >-
  - [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-american-studies-minor/#text)
  - [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
  - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
+ 
+ When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
 Our certificate programs are designed to enhance career opportunities in the public, private and nonprofit sectors. Certificates require completion of six skill-based courses, starting with basic language studies for the true beginner.
 
