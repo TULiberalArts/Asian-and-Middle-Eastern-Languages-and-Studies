@@ -1,12 +1,12 @@
 ---
 title: Resources
-meta-keywords: 'contact, study abroad, language'
 permalink: /resources/
 layout: page
-published: true
+keywords: 'contact, study abroad, language'
 meta-description: >-
   Learn about study abroad, the popular East-West club and foreign language   
   placement.
+published: true
 ---
 Learn about [study abroad options](#study-abroad), the popular [East-West club](#information), and [foreign language placement](#foreign-language-placement-waiver-and-assessment-requests).
 
