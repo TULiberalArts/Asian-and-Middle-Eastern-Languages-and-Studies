@@ -1,8 +1,9 @@
 ---
 title: Undergraduate
-meta-keywords: 'specialization, Asian, minor'
 permalink: /undergraduate/
 layout: page
+keywords: 'specialization, Asian, minor'
+description: >-
 published: true
 sidebar: true
 sidebar-content: |
