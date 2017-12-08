@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: home3
 description: >-
   We help students develop the language skills and cultural knowledge needed
   for  careers and professions ranging from business to government to education
