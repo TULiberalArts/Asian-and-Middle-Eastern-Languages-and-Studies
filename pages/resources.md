@@ -15,10 +15,12 @@ Learn about [study abroad options](#study-abroad), the popular [East-West club](
 We strongly encourage our students to study for a semester or more in one of the countries they learn about in the Arabic, Asian Studies, Chinese and Japanese curriculums. Study abroad that includes participation in an intensive language program is an especially valuable way for students to develop a high level of proficiency in the language they are studying. These programs are designed to improve participants’ oral, listening, reading and writing proficiency in their target language and develop their knowledge regarding the history, politics, culture and society of that country. Combining intensive language classes with experience abroad prepares students to compete for careers on a global level. Credits earned through the study abroad programs may be used toward a minor and/or certificate.
 
 - [Temple Programs](http://www.temple.edu/studyabroad/) (Japan, China, India) 
-- [Chinese Semester/Year Exchange Programs in Beijing, Hong Kong, Nanjing, Shanghai or Taipei, China](https://studyabroad.temple.edu/temple-exchanges/china-exchanges)
+- [Chinese Semester/Year Exchange Programs in Beijing, Hong Kong, Nanjing, Shanghai or Taipei, China](https://studyabroad.temple.edu/temple-exchanges/taiwan-exchanges)
+Chinese Semester/Year Exchange Programs in Beijing, Hong Kong, Nanjing, Shanghai or Taipei, China we don’t offer exchange opportunities in the cities I’ve highlighted, and also I wanted to let you know that the exchange we offer in Taiwan is linked to a page that’s separate from our China Exchanges page. Visit the [Taiwan Exchanges](https://studyabroad.temple.edu/temple-exchanges/taiwan-exchanges) page for more details including our exchange with NTU. 
 - [Japanese Semester/Year Study Abroad Program in Tokyo, Japan](https://studyabroad.temple.edu/sites/temple-japan-semester)
 - [Japanese Summer Semester in Tokyo, Japan](https://studyabroad.temple.edu/sites/temple-japan-summer)
 - [Korean Semester/Year Exchange Programs in Seoul or Ansan, Korea](https://studyabroad.temple.edu/temple-exchanges/korea-exchanges)
+ Korean Semester/Year Exchange Programs in Seoul or Ansan, Korea we don’t offer any exchanges in Ansan – only in Seoul. 
 
 **Additional Study Abroad Resources**
 
