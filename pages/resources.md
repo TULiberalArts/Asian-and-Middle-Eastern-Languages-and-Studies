@@ -16,11 +16,11 @@ We strongly encourage our students to study for a semester or more in one of the
 There are additional approved external study abroad program providers that offer programs in Asia.They include the Alliance for Global Education, the School for Field Studies, the Education Abroad Network, SIT Study Abroad, Syracuse University, USAC, IES Abroad, Boston University, and the University of Minnesota. Explore [Study Abroad Programs](https://studyabroad.temple.edu/programs) by country. 
 
 - [Temple Programs](http://www.temple.edu/studyabroad/) (Japan, China, India) 
-- [Chinese Semester/Year Exchange Programs in Beijing, Hong Kong, Nanjing, Shanghai or Taipei, China](https://studyabroad.temple.edu/temple-exchanges/taiwan-exchanges)
+- [Chinese Semester/Year Exchange Programs in Beijing, Hong Kong, Nanjing, Shanghai or Taipei, China](https://studyabroad.temple.edu/temple-exchanges/taiwan-exchanges)<br/>
 Chinese Semester/Year Exchange Programs in Beijing, Hong Kong, Nanjing, Shanghai or Taipei, China we don’t offer exchange opportunities in the cities I’ve highlighted, and also I wanted to let you know that the exchange we offer in Taiwan is linked to a page that’s separate from our China Exchanges page. Visit the [Taiwan Exchanges](https://studyabroad.temple.edu/temple-exchanges/taiwan-exchanges) page for more details including our exchange with NTU. 
 - [Japanese Semester/Year Study Abroad Program in Tokyo, Japan](https://studyabroad.temple.edu/sites/temple-japan-semester)
 - [Japanese Summer Semester in Tokyo, Japan](https://studyabroad.temple.edu/sites/temple-japan-summer)
-- [Korean Semester/Year Exchange Programs in Seoul or Ansan, Korea](https://studyabroad.temple.edu/temple-exchanges/korea-exchanges)
+- [Korean Semester/Year Exchange Programs in Seoul or Ansan, Korea](https://studyabroad.temple.edu/temple-exchanges/korea-exchanges)<br/>
  Korean Semester/Year Exchange Programs in Seoul or Ansan, Korea we don’t offer any exchanges in Ansan – only in Seoul. 
 
 **Additional Study Abroad Resources**
