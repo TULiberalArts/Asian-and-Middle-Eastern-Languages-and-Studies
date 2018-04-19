@@ -25,6 +25,19 @@ feature-body: >-
 published: true
 ---
 
+## Academic Offerings
+ - [Major in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
+ - [Major in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/ba-chinese/)
+ - [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
+ - [Minor in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
+ - [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-american-studies-minor/#text)
+ - [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
+ - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
+  - [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/certificate-specialization-arabic/)
+ - [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/certificate-specialization-chinese/)
+ - [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)
+ - [Certificate in Asian Business and Society](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-business-society-certificate/)
+
 <div class="row row-wide">
 <div class="col m12 l4">{% include cards/card2-image.html title="Study Abroad in Asia and the Middle East" content="We strongly encourage our students to study for a semester or more in one of the countries they learn about in the Arabic, Asian Studies, Chinese and Japanese curriculums." image="" button-link="http://studyabroad.temple.edu/" button-text="Learn More" %}</div>
 <div class="col m12 l4">{% include cards/card2-image.html title="Connect With the World Around You" content="We're about more than language proficiency. With us, you'll develop a deep understanding of the politics, history and culture of the regions, acquiring the skills needed to connect globally." image="assets/img_gs_languages.png" button-link="https://www.ciee.org/" button-text="Learn More" %}</div>
