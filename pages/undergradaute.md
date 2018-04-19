@@ -52,18 +52,6 @@ meta-description: >-
 </div>
 </div>
 
-## Academic Offerings
-
- - [Major in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
- - [Major in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/ba-chinese/)
- - [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
- - [Minor in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
- - [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-american-studies-minor/#text)
- - [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
- - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
- 
- When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
-
 Our certificate programs are designed to enhance career opportunities in the public, private and nonprofit sectors. Certificates require completion of six skill-based courses, starting with basic language studies for the true beginner.
 
  - [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/certificate-specialization-arabic/)
@@ -74,5 +62,6 @@ Our certificate programs are designed to enhance career opportunities in the pub
 If you are interested in taking a course as a non-matriculated student, please contact the [Office of Continuing Education](http://www.temple.edu/academics/continuing-education).
 
 ## Studies in Hebrew, Hindi and Korean
-
 We offer courses to help you develop a usable proficiency in Hebrew, Hindi and Korean. With these skills, our students go on to careers in education, government, business and more. Students also use their knowledge of these languages to pursue advanced studies.
+
+ When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
