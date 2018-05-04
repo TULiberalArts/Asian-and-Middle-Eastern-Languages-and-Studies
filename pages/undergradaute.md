@@ -2,8 +2,9 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: 'specialization, Asian, minor'
+keywords: 'specialization certificate, Asian, minor, arabic, japanese'
 description: >-
+  Our Asian Studies curriculum offers courses in fields such as politics, history, society, art, religion, philosophy and literature.
 published: true
 sidebar: true
 sidebar-content: |
@@ -28,9 +29,6 @@ sidebar-content: |
    330 Anderson Hall    
    [(215) 204-8267](tel:2152048267)   
    [pshaddin@temple.edu](mailto:pshaddin@temple.edu)  
-meta-description: >-
-  Our Asian Studies curriculum offers courses in fields such as politics,
-  history,  society, art, religion, philosophy and literature.
 ---
 
 <div class="row">
