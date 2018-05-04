@@ -2,7 +2,7 @@
 title: Student Life
 permalink: /student-life/
 layout: page
-keywords: 'contact, study abroad, language'
+keywords: 'contact, study abroad, scholarships, east and west club, foreign language assessment'
 meta-description: >-
   Learn about study abroad, the popular East-West club and foreign language   
   placement.
