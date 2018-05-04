@@ -6,7 +6,7 @@ description: >-
   We help students develop the language skills and cultural knowledge needed
   for  careers and professions ranging from business to government to education
   and the  media.
-keywords: 'Chinese and Japanese, Asian Studies, language'
+keywords: 'Chinese, Arabic, Japanese, Asian Studies, language, academic offerings, major, minor, certificate'
 feature: true
 feature-title: Major or Minor in Asian Studies
 feature-image: media/hero_bg.png
