@@ -35,7 +35,7 @@ sidebar-content: |
 <div class="col m12 l8">
   <h2>Study Asia from an Interdisciplinary Perspective</h2>
   <p>
-    Our Asian Studies curriculum offers courses in fields such as politics, history, society, art, religion, philosophy and literature.  You will gain the knowledge and skills to understand and intellectually engage with the countries and regions of Asia.
+The College of Liberal Arts’ Department of Asian Studies offers four [Arabic](#certificate-of-specialization-in-arabic) and [Asian](#certificate-of-specialization-in-chinese) certificate programs and a variety of coursework in Japanese, Chinese, [Korean, Hebrew, Hindi](#studies-in-hebrew-hindi-and-korean) and Arabic. Students can even earn an [Asian business and society certificate](#certificate-in-asian-business-and-society). Whether your interests lie in the Far East or the Middle-East, Temple University has coursework that will help you turn your passion into a career.
   </p>
 </div>
 <div class="col m12 l4"><br>
