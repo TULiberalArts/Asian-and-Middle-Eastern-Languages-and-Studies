@@ -1,7 +1,7 @@
 ---
 title: Faculty
 permalink: /faculty/
-layout: faculty2
+layout: tla_faculty
 keywords: 'faculty, asian studies'
 meta-description: >-
   Our faculty members have studied and taught all over the world. They work
