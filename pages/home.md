@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home3
+layout: tla_home
 description: >-
   We help students develop the language skills and cultural knowledge needed
   for  careers and professions ranging from business to government to education
@@ -11,7 +11,7 @@ feature: true
 feature-title: Major or Minor in Asian Studies
 feature-image: media/hero_bg.png
 feature-body: >-
-  Develop the language skills and cultural knowledge needed for careers and 
+  Develop the language skills and cultural knowledge needed for careers and
   professions ranging from business and government to education and the media.
 published: true
 ---

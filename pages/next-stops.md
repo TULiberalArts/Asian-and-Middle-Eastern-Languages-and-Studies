@@ -1,7 +1,7 @@
 ---
 title: Next Stops
 permalink: /next-stops/
-layout: page
+layout: tla_page
 keywords: 'transfer, apply, visit, College of Liberal Arts, careers'
 meta-description: >-
   Our students go on to careers and graduate education in a wide range of
