@@ -1,12 +1,16 @@
 ---
-title: Student Life
-permalink: /student-life/
+# global predefined variables
 layout: tla_page
-keywords: 'contact, study abroad, scholarships, east and west club, foreign language assessment'
+permalink: /student-life/
+published: true
+# meta-data variables
+title: Student Life
 meta-description: >-
   Learn about study abroad, the popular East-West club and foreign language   
   placement.
-published: true
+keywords: 'contact, study abroad, scholarships, east and west club, foreign language assessment'
+# custom variables
+sidebar: false
 ---
 Learn about [study abroad options](#study-abroad), the popular [East-West club](#information), and [foreign language placement](#foreign-language-placement-waiver-and-assessment-requests).
 
