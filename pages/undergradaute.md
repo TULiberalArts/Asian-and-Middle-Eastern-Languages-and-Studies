@@ -1,34 +1,17 @@
 ---
-title: Undergraduate
-permalink: /undergraduate/
+# global predefined variables
 layout: page
-keywords: 'specialization certificate, Asian, minor, arabic, japanese'
-description: >-
-  Our Asian Studies curriculum offers courses in fields such as politics, history, society, art, religion, philosophy and literature.
+permalink: /undergraduate/
 published: true
+# meta-data variables
+title: Undergraduate
+description: >-
+  Our Asian Studies curriculum offers courses in fields such as politics, history,
+  society, art, religion, philosophy and literature.
+keywords: 'specialization certificate, Asian, minor, arabic, japanese'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Louis Mangione, Ph.D.  
-   347 Anderson Hall  
-   [(215) 204-8247](tel:2152048247)  
-   [mangione@temple.edu](mailto:mangione@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Michelle Pugliese  
-   429 Anderson Hall   
-   [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
-   
-   ___
-
-   **Coordinator:**  
-   Peggy Shadding  
-   330 Anderson Hall    
-   [(215) 204-8267](tel:2152048267)   
-   [pshaddin@temple.edu](mailto:pshaddin@temple.edu)  
+sidebar_content: sidebars/undergraduate.html  
 ---
 
 <div class="row">
