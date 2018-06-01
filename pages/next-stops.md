@@ -1,12 +1,17 @@
 ---
-title: Next Stops
-permalink: /next-stops/
+# global predefined variables
 layout: tla_page
+permalink: /next-stops/
+published: true
+# meta-data variables
+title: Next Stops
 keywords: 'transfer, apply, visit, College of Liberal Arts, careers'
-meta-description: >-
+description: >-
   Our students go on to careers and graduate education in a wide range of
   fields. Learn more or apply now.
-published: true
+keywords: 'transfer, apply, visit, College of Liberal Arts, careers'  
+# custom variables
+sidebar: false
 ---
 ## Careers and Beyond
 Our students go on to careers and graduate education in a wide range of fields, from business and government to education and the media. In addition to language skills, our programs provide students with talents that prove useful in many professions. You will graduate with strong experience in written and oral communication, multicultural and interpersonal relations, analytical and creative thinking, and research and information literacy.
