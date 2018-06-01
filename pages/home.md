@@ -1,19 +1,23 @@
 ---
-title: Home
-permalink: /
+# global predefined variables
 layout: tla_home
+permalink: /
+published: true
+# meta-data variables
+title: Home
 description: >-
   We help students develop the language skills and cultural knowledge needed
   for  careers and professions ranging from business to government to education
   and the  media.
 keywords: 'Chinese, Arabic, Japanese, Asian Studies, language, academic offerings, major, minor, certificate'
+# custom variables
+sidebar: false
 feature: true
 feature-title: Major or Minor in Asian Studies
 feature-image: media/hero_bg.png
 feature-body: >-
   Develop the language skills and cultural knowledge needed for careers and
   professions ranging from business and government to education and the media.
-published: true
 ---
 
 The Department of Asian and Middle Eastern Languages and Studies offers majors in Asian Studies and Chinese, minors in Arabic, Asian Studies, Chinese and Japanese, certificates of language proficiency in Arabic, Chinese and Japanese, and a certificate in Asian Business and Society. We also offer instruction in Hebrew, Hindi and Korean. Our courses taught in English on literature, film and culture also provide rigorous academic training for those interested in going to graduate studies and professional degree programs. The popular minor and certificate programs complement most majors at the university, including Asian Studies and Global Studies.
