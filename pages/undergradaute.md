@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  Our Asian Studies curriculum offers courses in fields such as politics, history,
-  society, art, religion, philosophy and literature.
+  Explore your study options in Chinese, Japanese, and Arabic; or Hebrew, Hindi
+  and Korean, at Temple University’s College of Liberal Arts.
 keywords: 'specialization certificate, Asian, minor, arabic, japanese'
 # custom variables
 sidebar: true
