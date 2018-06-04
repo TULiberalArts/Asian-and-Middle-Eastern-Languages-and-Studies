@@ -1,13 +1,13 @@
 ---
 # global predefined variables
-layout: home3
+layout: tla_home
 permalink: /
 published: true
 # meta-data variables
 title: Home
 description: >-
   The Department of Asian and Middle Eastern Languages and Studies offers majors in Asian Studies and Chinese, 
-  as well as study options from Arabic to Korean. Learn more about what Temple University’s College of Liberal Arts has to offer!
+  as well as study options from Arabic to Korean. Learn more about what Temple University’s College of Liberal Arts has to offer.
 keywords: 'Chinese, Arabic, Japanese, Asian Studies, language, academic offerings, major, minor, certificate'
 # custom variables
 sidebar: false
