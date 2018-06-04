@@ -6,8 +6,6 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  The Department of Asian and Middle Eastern Languages and Studies offers majors in Asian Studies and Chinese, 
-  as well as study options from Arabic to Korean. Learn more about what Temple University’s College of Liberal Arts has to offer.
 keywords: 'Chinese, Arabic, Japanese, Asian Studies, language, academic offerings, major, minor, certificate'
 # custom variables
 sidebar: false
@@ -32,6 +30,8 @@ The Department of Asian and Middle Eastern Languages and Studies offers majors i
  - [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/certificate-specialization-chinese/)
  - [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)
  - [Certificate in Asian Business and Society](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-business-society-certificate/)
+
+___
 
 <div class="row row-wide">
 <div class="col m12 l4">{% include cards/card2-image.html title="Study Abroad in Asia and the Middle East" content="We strongly encourage our students to study for a semester or more in one of the countries they learn about in the Arabic, Asian Studies, Chinese and Japanese curriculums." image="" button-link="http://studyabroad.temple.edu/" button-text="Learn More" %}</div>
