@@ -6,8 +6,7 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
-  Learn about study abroad, the popular East-West club and foreign language   
-  placement.
+ Learn about study abroad, the popular East-West club and foreign language placement.
 keywords: 'contact, study abroad, scholarships, east and west club, foreign language assessment'
 # custom variables
 sidebar: false
