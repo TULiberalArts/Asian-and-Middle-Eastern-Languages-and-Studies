@@ -7,8 +7,7 @@ published: true
 title: Next Stops
 keywords: 'transfer, apply, visit, College of Liberal Arts, careers'
 description: >-
-  Our students go on to careers and graduate education in a wide range of
-  fields. Learn more or apply now.
+ Discover your career possibilities with a degree in Asian Studies from Temple University’s College of Liberal Arts. Visit us and apply!
 keywords: 'transfer, apply, visit, College of Liberal Arts, careers'  
 # custom variables
 sidebar: false
