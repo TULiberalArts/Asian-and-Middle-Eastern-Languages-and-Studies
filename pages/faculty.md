@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_faculty
 permalink: /faculty/
-layout: tla_faculty
+published: true
 # meta-data variables
 title: Faculty
 description: >-
