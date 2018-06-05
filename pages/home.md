@@ -6,9 +6,6 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  We help students develop the language skills and cultural knowledge needed
-  for  careers and professions ranging from business to government to education
-  and the  media.
 keywords: 'Chinese, Arabic, Japanese, Asian Studies, language, academic offerings, major, minor, certificate'
 # custom variables
 sidebar: false
