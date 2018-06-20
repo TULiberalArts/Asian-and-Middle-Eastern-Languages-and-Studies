@@ -3,6 +3,7 @@
 title: Asian Studies
 # Subdirectory (with / at only at beginning)
 baseurl: /asian-studies
+# url spits sitemap
 url: https://www.cla.temple.edu/asian-studies
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
