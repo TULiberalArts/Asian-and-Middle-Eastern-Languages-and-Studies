@@ -26,10 +26,10 @@ The Department of Asian and Middle Eastern Languages and Studies offers majors i
  - [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-american-studies-minor/#text)
  - [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
  - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
-  - [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/certificate-specialization-arabic/)
- - [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/certificate-specialization-chinese/)
- - [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)
- - [Certificate in Asian Business and Society](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-business-society-certificate/)
+  - [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-arabic/)
+ - [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-chinese/)
+ - [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-japanese/)
+ - [Certificate in Asian Business and Society](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-asian-business-society/)
 
 ___
 
