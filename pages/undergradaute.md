@@ -34,10 +34,10 @@ The College of Liberal Arts’ Department of Asian Studies offers four Arabic an
 
 Our certificate programs are designed to enhance career opportunities in the public, private and nonprofit sectors. Certificates require completion of six skill-based courses, starting with basic language studies for the true beginner.
 
- - [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/certificate-specialization-arabic/)
- - [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/certificate-specialization-chinese/)
- - [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)
- - [Certificate in Asian Business and Society](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-business-society-certificate/)
+ - [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-arabic/)
+ - [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-chinese/)
+ - [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-japanese/)
+ - [Certificate in Asian Business and Society](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-asian-business-society/)
 
 If you are interested in taking a course as a non-matriculated student, please contact the [Office of Continuing Education](http://www.temple.edu/academics/continuing-education).
 
