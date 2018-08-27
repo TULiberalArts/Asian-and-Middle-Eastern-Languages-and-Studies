@@ -29,7 +29,7 @@ Chinese Semester/Year Exchange Programs in Beijing, Hong Kong, Nanjing, Shanghai
 **Additional Study Abroad Resources**
 Complete Education Abroad’s [External Programs Study Abroad Approval Process](https://studyabroad.temple.edu/external-programs-approval-process) and participate in approved external study abroad programs such as:
 - [Council on International Education Exchange](https://studyabroad.temple.edu/external-programs-approval-process) (Cambodia, China, India, Japan, S. Korea, Taiwan, Thailand, Vietnam)
-- [Alliance for Global Education](https://webcache.googleusercontent.com/search?q=cache:ZUI_9xvllgoJ:https://studyabroad.temple.edu/sites/alliance-for-global-education+&cd=1&hl=en&ct=clnk&gl=us) (China, India)
+- [Alliance for Global Education](https://studyabroad.temple.edu/programs) (China, India)
 - [The Education Abroad Network](https://studyabroad.temple.edu/sites/the-education-abroad-network) (Cambodia, China, Singapore, S. Korea, Thailand, Vietnam)
 - [School for Field Studies](https://studyabroad.temple.edu/sites/school-for-field-studies) (Bhutan, Cambodia) and many more approved [External Study Abroad Program Providers](https://studyabroad.temple.edu/temple-external-programs).
 - To directly enroll in a foreign university such as the [Korea University International Summer Campus](http://iie.korea.ac.kr/all/src/main/main.php) (S. Korea) or the [Yonsei University International Summer School](http://summer.yonsei.ac.kr/new/text.asp?mid=001001000&mo=1) (S. Korea), you must first complete Education Abroad’s [External Programs Study Abroad Approval Process](https://studyabroad.temple.edu/external-programs-approval-process). 	
