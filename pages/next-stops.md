@@ -10,7 +10,6 @@ description: >-
  Discover your career possibilities with a degree in Asian Studies from Temple University’s College of Liberal Arts. Visit us and apply!
 keywords: 'transfer, apply, visit, College of Liberal Arts, careers'  
 # custom variables
-sidebar: false
 ---
 ## Careers and Beyond
 Our students go on to careers and graduate education in a wide range of fields, from business and government to education and the media. In addition to language skills, our programs provide students with talents that prove useful in many professions. You will graduate with strong experience in written and oral communication, multicultural and interpersonal relations, analytical and creative thinking, and research and information literacy.

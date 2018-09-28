@@ -9,8 +9,6 @@ description: >-
  Get to know our Asian Studies faculty. Our faculty members have studied and taught all over the world, and work closely with our students in small classes at Temple University’s College of Liberal Arts.
 keywords: 'faculty, asian studies'
 # custom variables
-sidebar: false
-affiliated: true
-affiliated_content: profiles/affiliated.html
+affiliated: profiles/affiliated.html
 ---
 Our faculty members have studied and taught all over the world. They work closely with our students in small classes.

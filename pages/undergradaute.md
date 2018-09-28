@@ -9,8 +9,7 @@ description: >-
  Explore your study options in Chinese, Japanese, and Arabic; or Hebrew, Hindiand Korean, at Temple University’s College of Liberal Arts.
 keywords: 'specialization certificate, Asian, minor, arabic, japanese'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html  
+sidebar: sidebars/undergraduate.html  
 ---
 
 <div class="row">

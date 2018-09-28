@@ -8,7 +8,6 @@ title: Home
 description: >-
 keywords: 'Chinese, Arabic, Japanese, Asian Studies, language, academic offerings, major, minor, certificate'
 # custom variables
-sidebar: false
 promotion-table: true
 feature: true
 feature-title: Major or Minor in Asian Studies

@@ -9,7 +9,6 @@ description: >-
  Learn about study abroad, the popular East-West club and foreign language placement.
 keywords: 'contact, study abroad, scholarships, east and west club, foreign language assessment'
 # custom variables
-sidebar: false
 ---
 Learn about [study abroad options](#study-abroad), the popular [East-West club](#information), and [foreign language placement](#foreign-language-placement-waiver-and-assessment-requests).
 
@@ -46,6 +45,6 @@ Complete Education Abroad’s [External Programs Study Abroad Approval Process](
 - [www.teenkorean.com](http://teenkorean.com/) (Korean)
 
 ## Foreign Language Placement, Waiver and Assessment Requests
-For questions about placement, waivers, and assessments, please arrange to meet the appropriate Arabic, Chinese, Japanese, Hebrew, Hindi, or Korean advisor by emailing [asian_studies@temple.edu](mailto:asian_studies@temple.edu). 
+For questions about placement, waivers, and assessments, please arrange to meet the appropriate Arabic, Chinese, Japanese, Hebrew, Hindi, or Korean advisor by emailing [asian_studies@temple.edu](mailto:asian_studies@temple.edu).
 
 For languages not offered at the university, students have the option of taking an online language assessment exam. The exam vendor must first be approved by the department chair. Students should then complete the Foreign Language Assessment Request and Certification form and complete the first two sections, “Student Identification Information” and “Language Background and Information.” Students should next meet with a CLA academic advisor, bringing this form as well as any relevant documentation, such as a transcript or diploma, to demonstrate their background in the assessment language.
