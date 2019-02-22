@@ -10,7 +10,7 @@ description: >-
 keywords: 'contact, study abroad, scholarships, east and west club, foreign language assessment'
 # custom variables
 ---
-Learn about [study abroad options](#study-abroad), the popular [East-West club](#information), and [foreign language placement](#foreign-language-placement-waiver-and-assessment-requests).
+Learn about [study abroad options](#study-abroad) and [foreign language placement requests](#foreign-language-placement-waiver-and-assessment-requests).
 
 ## Study Abroad
 We strongly encourage our students to study for a semester or more in one of the countries they learn about in the Arabic, Asian Studies, Chinese and Japanese curriculums. Study abroad that includes participation in an intensive language program is an especially valuable way for students to develop a high level of proficiency in the language they are studying. These programs are designed to improve participants’ oral, listening, reading and writing proficiency in their target language and develop their knowledge regarding the history, politics, culture and society of that country. Combining intensive language classes with experience abroad prepares students to compete for careers on a global level. Credits earned through the study abroad programs may be used toward a minor and/or certificate.
