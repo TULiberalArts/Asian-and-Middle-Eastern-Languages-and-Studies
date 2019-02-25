@@ -10,27 +10,28 @@ keywords: 'Chinese, Arabic, Japanese, Asian Studies, language, academic offering
 # custom variables
 promotion-table: true
 feature: true
-feature-title: Major or Minor in Asian Studies
+feature-title: Minor in Asian and Middle Eastern Languages and Studies 
 feature-image: media/hero_bg.png
 feature-body: >-
   Develop the language skills and cultural knowledge needed for careers and
   professions ranging from business and government to education and the media.
 ---
-The Department of Asian and Middle Eastern Languages and Studies offers majors in Asian Studies and Chinese, minors in Arabic, Asian Studies, Chinese and Japanese, certificates of language proficiency in Arabic, Chinese and Japanese, and a certificate in Asian Business and Society. We also offer instruction in Hebrew, Hindi and Korean. Our courses taught in English on literature, film and culture also provide rigorous academic training for those interested in going to graduate studies and professional degree programs. The popular minor and certificate programs complement most majors at the university, including Asian Studies and Global Studies.
+The Department of Asian and Middle Eastern Languages and Studies offers programs leading to an undergraduate minor or certificate of language proficiency in Arabic, Chinese, and Japanese. The department also offers instruction in Hebrew, Hindi, and Korean. Our programs are designed to provide the language skills and cultural knowledge needed for a number of professions and careers.  
+
+Every semester the department offers several courses on topics such as literature, film, and culture which are taught in English and utilize translated materials. These provide rigorous academic training for those interested in pursuing graduate studies and professional degrees. The popular minor and certificate programs complement most majors at the university, including [Asian Studies](https://www.cla.temple.edu/asian-studies/) and [Global Studies](https://www.cla.temple.edu/global-studies/).
 
 ## Academic Offerings
- - [Major in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
- - [Major in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/ba-chinese/)
+
+**Minors**<br>
  - [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
- - [Minor in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
- - [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-american-studies-minor/#text)
  - [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
  - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
-  - [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-arabic/)
+ - [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-arabic/)
+ 
+**Certificates**<br> 
  - [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-chinese/)
  - [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-japanese/)
- - [Certificate in Asian Business and Society](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-asian-business-society/)
-
+ 
 ___
 
 <div class="row row-wide">
