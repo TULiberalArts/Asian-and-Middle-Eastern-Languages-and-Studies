@@ -14,7 +14,7 @@ sidebar: sidebars/undergraduate.html
 ## Study Asia from an Interdisciplinary Perspective
 Critical Languages offers courses in Chinese, Japanese, Arabic, Korean, Hindi, and Modern Greek, Vietnamese and Hebrew. Students enroll in these courses for a variety of reasons, which include career goals, personal interest, preparation for study abroad, and the desire to fulfill certain university and college program requirements. Successful completion of Critical Languages courses can satisfy the international studies core requirement as well as the language requirements of majors ranging from Asian Studies to International Business.
 
-Learn Languages 
+## Learn Languages 
 Critical Languages offers courses in Chinese, Japanese, Arabic, Korean, Hindi, Modern Greek Vietnamese and Hebrew. Students enroll in these courses for a variety of reasons, which include career goals, personal interest, preparation for study abroad, and the desire to fulfill certain university and college program requirements. Successful completion of Critical Languages courses can satisfy the international studies core requirement as well as the language requirements of majors ranging from Asian Studies to International Business.
 
 ## Study Literature, Film, and Pop Culture 
@@ -25,17 +25,17 @@ Critical Languages courses in Chinese and Japanese literature and in Japanese fi
 ### Minor in Arabic
 The Minor in Arabic emphasizes language study while also recognizing the importance of learning about the Arab world through work in fields such as literature, history, anthropology, religion, and geography and urban studies. A grade of C- or higher must be earned in all courses for the minor.
 
-- Learn More About the [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
+Learn More About the [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
 
 ### Minor in Chinese
 The Minor in Chinese emphasizes language study while also recognizing the importance of learning about China through work in fields such as literature, history, anthropology, religion, and geography and urban studies. A grade of C- or higher must be earned in all courses for the minor.
 
-- Learn More About the [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
+Learn More About the [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
 
 ### Minor in Japanese
 The Minor in Japanese emphasizes language study while also recognizing the importance of learning about Japan through work in fields such as literature, history, anthropology, religion, and geography and urban studies. A grade of C- or higher must be earned in all courses for the minor.
 
-- Learn More About the [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
+Learn More About the [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
 
 ## Certificates
 Certificates of specialization in Chinese, Japanese and Arabic focus on learning language skills and developing a strong foundation for the effective use of Chinese, Japanese and Arabic socially and professionally. Our certificate programs are designed to enhance career opportunities in the public, private and nonprofit sectors. Certificates require completion of six skill-based courses, starting with basic language studies for the true beginner.
