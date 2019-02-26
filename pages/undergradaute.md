@@ -48,4 +48,4 @@ Certificates of specialization in Chinese, Japanese and Arabic focus on learning
 If you are interested in taking a course as a non-matriculated student, please contact the [Office of Continuing Education](http://www.temple.edu/academics/continuing-education).
 
 ## Studies in Hebrew, Hindi and Korean
-We offer courses to help you develop a usable proficiency in Hebrew, [Hindi](https://bulletin.temple.edu/undergraduate/courses/hin/) and [Korean](https://bulletin.temple.edu/undergraduate/courses/krn/). With these skills, our students go on to careers in education, government, business and more. Students also use their knowledge of these languages to pursue advanced studies.
+We offer courses to help you develop a usable proficiency in [Hebrew](https://bulletin.temple.edu/undergraduate/courses/hebr/), [Hindi](https://bulletin.temple.edu/undergraduate/courses/hin/) and [Korean](https://bulletin.temple.edu/undergraduate/courses/krn/). With these skills, our students go on to careers in education, government, business and more. Students also use their knowledge of these languages to pursue advanced studies.
