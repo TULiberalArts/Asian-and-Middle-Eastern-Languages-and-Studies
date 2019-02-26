@@ -1,13 +1,13 @@
-# Asian Studies
+# Asian & Middle Eastern Languages & Studies
 
 [![Build Status][travis-img]][travis]
 
-Asian Studies is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
+Asian & Middle Eastern Languages & Studies is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
 | Links |  |
 | --- | --- |
-| Development | https://develop.cla.temple.edu/asian-studies/ |
-| Production | https://www.cla.temple.edu/asian-studies/ |
+| Development | https://develop.cla.temple.edu/asian-and-middle-eastern-languages-and-studies/ |
+| Production | https://www.cla.temple.edu/asian-and-middle-eastern-languages-and-studies/ |
 
 ## Content Structure
 
@@ -26,10 +26,10 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 [Pull requests][pr] are also welcome if you would like to contribute or edit page content. [Prose.io][prose] is a quick and convenient way to edit content in [Markdown][md].
 
 
-[travis]: https://travis-ci.org/TULiberalArts/Asian-Studies
-[travis-img]: https://travis-ci.org/TULiberalArts/Asian-Studies.svg?branch=master
+[travis]: https://travis-ci.org/TULiberalArts/asian-and-middle-eastern-languages-and-studies
+[travis-img]: https://travis-ci.org/TULiberalArts/asian-and-middle-eastern-languages-and-studies.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
-[issue]: https://github.com/TULiberalArts/Asian-Studies/issues
+[issue]: https://github.com/TULiberalArts/asian-and-middle-eastern-languages-and-studies/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
-[prose]: https://prose.io/#TULiberalArts/Asian-Studies
+[prose]: https://prose.io/#TULiberalArts/asian-and-middle-eastern-languages-and-studies
 [md]: http://whatismarkdown.com/

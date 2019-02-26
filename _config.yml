@@ -2,9 +2,9 @@
 # Program/Department Title
 title: Asian & Middle Eastern Languages & Studies
 # Subdirectory (with / at only at beginning)
-baseurl: /asian-middle-eastern-languages-studies
+baseurl: /asian-and-middle-eastern-languages-and-studies
 # url spits sitemap
-url: https://www.cla.temple.edu/asian-middle-eastern-languages-studies
+url: https://www.cla.temple.edu/asian-and-middle-eastern-languages-and-studies
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
 
