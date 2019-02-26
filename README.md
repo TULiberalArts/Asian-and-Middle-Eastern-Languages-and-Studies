@@ -26,10 +26,10 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 [Pull requests][pr] are also welcome if you would like to contribute or edit page content. [Prose.io][prose] is a quick and convenient way to edit content in [Markdown][md].
 
 
-[travis]: https://travis-ci.org/TULiberalArts/asian-and-middle-eastern-languages-and-studies
-[travis-img]: https://travis-ci.org/TULiberalArts/asian-and-middle-eastern-languages-and-studies.svg?branch=master
+[travis]: https://travis-ci.org/TULiberalArts/Asian-and-Middle-Eastern-Languages-and-Studies
+[travis-img]: https://travis-ci.org/TULiberalArts/Asian-and-Middle-Eastern-Languages-and-Studies.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
-[issue]: https://github.com/TULiberalArts/asian-and-middle-eastern-languages-and-studies/issues
+[issue]: https://github.com/TULiberalArts/Asian-and-Middle-Eastern-Languages-and-Studies/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
-[prose]: https://prose.io/#TULiberalArts/asian-and-middle-eastern-languages-and-studies
+[prose]: https://prose.io/#TULiberalArts/Asian-and-Middle-Eastern-Languages-and-Studies
 [md]: http://whatismarkdown.com/
