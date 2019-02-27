@@ -25,7 +25,7 @@ Chinese Semester/Year Exchange Programs in Beijing, Hong Kong, Nanjing, Shanghai
 - [Korean Semester/Year Exchange Programs in Seoul or Ansan, Korea](https://studyabroad.temple.edu/temple-exchanges/korea-exchanges)<br/>
  Korean Semester/Year Exchange Programs in Seoul or Ansan, Korea we don’t offer any exchanges in Ansan – only in Seoul.
 
-**Additional Study Abroad Resources**
+**Additional Study Abroad Resources**<br>
 Complete Education Abroad’s [External Programs Study Abroad Approval Process](https://studyabroad.temple.edu/external-programs-approval-process) and participate in approved external study abroad programs such as:
 - [Council on International Education Exchange](https://studyabroad.temple.edu/external-programs-approval-process) (Cambodia, China, India, Japan, S. Korea, Taiwan, Thailand, Vietnam)
 - [Alliance for Global Education](https://studyabroad.temple.edu/programs) (China, India)
