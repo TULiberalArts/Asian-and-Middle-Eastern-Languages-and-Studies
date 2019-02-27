@@ -11,7 +11,7 @@ keywords: 'Chinese, Arabic, Japanese, Asian Studies, language, academic offering
 promotion-table: true
 feature: true
 feature-title: Minor in Asian and Middle Eastern Languages and Studies
-feature-image: media/hero_bg.png
+feature-image: media/boat.jpg
 feature-body: >-
   Develop the language skills and cultural knowledge needed for careers and
   professions ranging from business and government to education and the media.
