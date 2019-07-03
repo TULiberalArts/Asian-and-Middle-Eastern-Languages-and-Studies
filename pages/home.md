@@ -15,12 +15,18 @@ feature-image: media/boat.jpg
 feature-body: >-
 ---
 ## Minor in Asian and Middle Eastern Languages and Studies
-The Department of Asian and Middle Eastern Languages and Studies offers programs leading to an undergraduate minor or certificate of language proficiency in Arabic, Chinese, and Japanese. The department also offers instruction in Hebrew, Hindi, and Korean. Our programs are designed to provide the language skills and cultural knowledge needed for a number of professions and careers. Develop the language skills and cultural knowledge needed for careers and professions ranging from business and government to education and the media.  
+The Department of Asian and Middle Eastern Languages and Studies offers programs leading to an undergraduate minor or certificate of language proficiency in [Arabic](https://www.cla.temple.edu/arabic/), [Chinese](https://www.cla.temple.edu/chinese/), and [Japanese](https://www.cla.temple.edu/japanese/). The department also offers instruction in Hebrew, Hindi, and Korean. Our programs are designed to provide the language skills and cultural knowledge needed for a number of professions and careers. Develop the language skills and cultural knowledge needed for careers and professions ranging from business and government to education and the media.  
 
 Every semester the department offers several courses on topics such as literature, film, and culture which are taught in English and utilize translated materials. These provide rigorous academic training for those interested in pursuing graduate studies and professional degrees. The popular minor and certificate programs complement most majors at the university, including [Asian Studies](https://www.cla.temple.edu/asian-studies/) and [Global Studies](https://www.cla.temple.edu/global-studies/).
 
 ## Academic Offerings
 
+ **Asian Studies**<br>
+ - [Bachelor of Arts in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
+ - [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-american-studies-minor/#text)
+ - [Minor in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
+ 
+ **Asian and Middle Eastern Languages and Studies**<br>
  - [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
  - [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
  - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
