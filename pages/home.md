@@ -22,7 +22,6 @@ Every semester the department offers several courses on topics such as literatur
 
  **Asian Studies**<br>
  - [Bachelor of Arts in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
- - [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-american-studies-minor/#text)
  - [Minor in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
  
  **Asian and Middle Eastern Languages and Studies**<br>
