@@ -11,39 +11,36 @@ keywords: 'specialization certificate, Asian, minor, arabic, japanese'
 # custom variables
 sidebar: sidebars/undergraduate.html  
 ---
-## Study Asia from an Interdisciplinary Perspective
-Critical Languages offers courses in Chinese, Japanese, Arabic, Korean, Hindi, and Modern Greek, Vietnamese and Hebrew. Students enroll in these courses for a variety of reasons, which include career goals, personal interest, preparation for study abroad, and the desire to fulfill certain university and college program requirements. Successful completion of Critical Languages courses can satisfy the international studies core requirement as well as the language requirements of majors ranging from Asian Studies to International Business.
+Majors, minors, and certificate programs in the Department of Asian and Middle Eastern Languages and Studies help prepare students for careers that require a global outlook and expertise.
 
-## Learn Languages 
-Critical Languages offers courses in Chinese, Japanese, Arabic, Korean, Hindi, Modern Greek Vietnamese and Hebrew. Students enroll in these courses for a variety of reasons, which include career goals, personal interest, preparation for study abroad, and the desire to fulfill certain university and college program requirements. Successful completion of Critical Languages courses can satisfy the international studies core requirement as well as the language requirements of majors ranging from Asian Studies to International Business.
+## Bachelor of Arts in Asian Studies / Minor in Asian Studies
+Develop the language skills in Chinese, Japanese, and Korean and the interdisciplinary knowledge needed for careers and professions ranging from business and government to education and the media.
 
-## Study Literature, Film, and Pop Culture 
-Critical Languages courses in Chinese and Japanese literature and in Japanese film and popular culture—all given in translation—invite students from any major to develop familiarity with Chinese and Japanese culture.
+- Learn more about the [Bachelor of Arts in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
+- Learn more about the Minor in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
 
-## Minors
+## Bachelor of Arts in Chinese / Minor in Chinese
+Develop the advanced Chinese language skills and knowledge of China that will prepare you for careers and professions in the public, private, and nonprofit sectors.  
 
-### Minor in Arabic
-The Minor in Arabic emphasizes language study while also recognizing the importance of learning about the Arab world through work in fields such as literature, history, anthropology, religion, and geography and urban studies. A grade of C- or higher must be earned in all courses for the minor.
+- Learn more about the [Bachelor of Arts in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/ba-chinese/)
+- Learn more about the [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
 
-Learn More About the [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
+## Minor in Arabic
+Combine Arabic language study with courses focusing on the Arab world in fields such as literature, film, history, anthropology, and religion.
 
-### Minor in Chinese
-The Minor in Chinese emphasizes language study while also recognizing the importance of learning about China through work in fields such as literature, history, anthropology, religion, and geography and urban studies. A grade of C- or higher must be earned in all courses for the minor.
+- Learn More About the [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
 
-Learn More About the [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
-
-### Minor in Japanese
-The Minor in Japanese emphasizes language study while also recognizing the importance of learning about Japan through work in fields such as literature, history, anthropology, religion, and geography and urban studies. A grade of C- or higher must be earned in all courses for the minor.
+## Minor in Japanese
+Combine Japanese language study with courses in fields such as literature, film, history, and religion that focus on Japan. 
 
 Learn More About the [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
 
 ## Certificates
-Certificates of specialization in Chinese, Japanese and Arabic focus on learning language skills and developing a strong foundation for the effective use of Chinese, Japanese and Arabic socially and professionally. Our certificate programs are designed to enhance career opportunities in the public, private and nonprofit sectors. Certificates require completion of six skill-based courses, starting with basic language studies for the true beginner.
+Certificates of specialization in Arabic, Chinese, and Japanese help students develop a strong foundation for the effective use of these languages socially and professionally. Our certificate programs are designed to enhance career opportunities. Certificates require completion of six skill-based courses, starting with basic language studies for the true beginner.
 
  - Learn More About the [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-arabic/)<br>
  - Learn More About the [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-chinese/)<br>
  - Learn More About the [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-japanese/)<br>
- - Learn More About the [Certificate in Asian Business and Society](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-asian-business-society/)<br>
 
 If you are interested in taking a course as a non-matriculated student, please contact the [Office of Continuing Education](http://www.temple.edu/academics/continuing-education).
 
