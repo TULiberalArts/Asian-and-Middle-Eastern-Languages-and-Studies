@@ -18,7 +18,7 @@ Open up new ways of seeing the world and prepare yourself for careers that deman
 
 **In the Department of Asian and Middle Eastern Languages and Studies, you can master a new language—and expand your understanding of the world through courses on literature, film and popular culture taught in English.**
 
-If you want to study Chinese, Japanese or Korean and take courses in several disciplines (such as literature, religion, history, and anthropology), the Asian Studies major is for you. If your preference is to go deeply into the culture of China, the Chinese major is an excellent choice. Are you looking for a program to round out your other studies at Temple? Consider a minor in Arabic, [Asian Studies](https://www.cla.temple.edu/asian-studies/), Chinese or Japanese. If language study is your specific goal, you can earn a certificate of specialization in [Arabic](https://www.cla.temple.edu/arabic/), [Chinese] (https://www.cla.temple.edu/chinese/) or [Japanese] —as well as take courses in Hebrew and Hindi.
+If you want to study Chinese, Japanese or Korean and take courses in several disciplines (such as literature, religion, history, and anthropology), the Asian Studies major is for you. If your preference is to go deeply into the culture of China, the Chinese major is an excellent choice. Are you looking for a program to round out your other studies at Temple? Consider a minor in Arabic, [Asian Studies](https://www.cla.temple.edu/asian-studies/), Chinese or Japanese. If language study is your specific goal, you can earn a certificate of specialization in [Arabic](https://www.cla.temple.edu/arabic/), [Chinese](https://www.cla.temple.edu/chinese/) or [Japanese](https://www.cla.temple.edu/japanese/) —as well as take courses in Hebrew and Hindi.
 
 ___
 
