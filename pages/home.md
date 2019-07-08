@@ -14,9 +14,13 @@ feature-title:
 feature-image: media/boat.jpg
 feature-body: >-
 ---
-The Department of Asian and Middle Eastern Languages and Studies offers programs leading to an undergraduate minor or certificate of language proficiency in [Arabic](https://www.cla.temple.edu/arabic/), [Chinese](https://www.cla.temple.edu/chinese/), and [Japanese](https://www.cla.temple.edu/japanese/). The department also offers instruction in Hebrew, Hindi, and Korean. Our programs are designed to provide the language skills and cultural knowledge needed for a number of professions and careers. Develop the language skills and cultural knowledge needed for careers and professions ranging from business and government to education and the media.  
+Open up new ways of seeing the world and prepare yourself for careers that demand a global perspective
 
-Every semester the department offers several courses on topics such as literature, film, and culture which are taught in English and utilize translated materials. These provide rigorous academic training for those interested in pursuing graduate studies and professional degrees. The popular minor and certificate programs complement most majors at the university, including [Asian Studies](https://www.cla.temple.edu/asian-studies/) and [Global Studies](https://www.cla.temple.edu/global-studies/).
+**In the Department of Asian and Middle Eastern Languages and Studies, you can master a new language—and expand your understanding of the world through courses on literature, film and popular culture taught in English.**
+
+If you want to study Chinese, Japanese or Korean and take courses in several disciplines (such as literature, religion, history, and anthropology), the Asian Studies major is for you. If your preference is to go deeply into the culture of China, the Chinese major is an excellent choice. Are you looking for a program to round out your other studies at Temple? Consider a minor in Arabic, [Asian Studies](https://www.cla.temple.edu/asian-studies/), Chinese or Japanese. If language study is your specific goal, you can earn a certificate of specialization in [Arabic](https://www.cla.temple.edu/arabic/), [Chinese] (https://www.cla.temple.edu/chinese/) or [Japanese] —as well as take courses in Hebrew and Hindi.
+
+___
 
 ## Academic Offerings
 
