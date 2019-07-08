@@ -14,7 +14,7 @@ feature-title:
 feature-image: media/boat.jpg
 feature-body: >-
 ---
-Open up new ways of seeing the world and prepare yourself for careers that demand a global perspective
+### Open up new ways of seeing the world and prepare yourself for careers that demand a global perspective
 
 **In the Department of Asian and Middle Eastern Languages and Studies, you can master a new language—and expand your understanding of the world through courses on literature, film and popular culture taught in English.**
 
