@@ -17,7 +17,7 @@ Majors, minors, and certificate programs in the Department of Asian and Middle E
 Develop the language skills in Chinese, Japanese, and Korean and the interdisciplinary knowledge needed for careers and professions ranging from business and government to education and the media.
 
 - Learn more about the [Bachelor of Arts in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
-- Learn more about the Minor in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
+- Learn more about the [Minor in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
 
 ## Bachelor of Arts in Chinese / Minor in Chinese
 Develop the advanced Chinese language skills and knowledge of China that will prepare you for careers and professions in the public, private, and nonprofit sectors.  
