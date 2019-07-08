@@ -33,7 +33,7 @@ Combine Arabic language study with courses focusing on the Arab world in fields 
 ## Minor in Japanese
 Combine Japanese language study with courses in fields such as literature, film, history, and religion that focus on Japan. 
 
-Learn More About the [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
+- Learn More About the [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
 
 ## Certificates
 Certificates of specialization in Arabic, Chinese, and Japanese help students develop a strong foundation for the effective use of these languages socially and professionally. Our certificate programs are designed to enhance career opportunities. Certificates require completion of six skill-based courses, starting with basic language studies for the true beginner.
