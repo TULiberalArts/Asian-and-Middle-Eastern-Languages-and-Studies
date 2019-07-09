@@ -14,9 +14,7 @@ feature-title:
 feature-image: media/boat.jpg
 feature-body: >-
 ---
-### Open up new ways of seeing the world and prepare yourself for careers that demand a global perspective
-
-**In the Department of Asian and Middle Eastern Languages and Studies, you can master a new language—and expand your understanding of the world through courses on literature, film and popular culture taught in English.**
+**In the Department of Asian and Middle Eastern Languages and Studies, you can master a new language—and expand your understanding of the world through courses on literature, film and popular culture taught in English. Open up new ways of seeing the world and prepare yourself for careers that demand a global perspective.**
 
 If you want to study Chinese, Japanese or Korean and take courses in several disciplines (such as literature, religion, history, and anthropology), the [Asian Studies](https://www.cla.temple.edu/asian-studies/) major is for you. If your preference is to go deeply into the culture of China, the [Chinese](https://www.cla.temple.edu/chinese/) major is an excellent choice. Are you looking for a program to round out your other studies at Temple? Consider a minor in [Arabic](https://www.cla.temple.edu/arabic/), Asian Studies, Chinese or [Japanese](https://www.cla.temple.edu/japanese/). If language study is your specific goal, you can earn a certificate of specialization in Arabic, Chinese or Japanese —as well as take courses in Hebrew and Hindi.
 
