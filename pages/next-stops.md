@@ -11,9 +11,6 @@ description: >-
 keywords: 'transfer, apply, visit, College of Liberal Arts, careers'  
 # custom variables
 ---
-## Careers and Beyond
-Our students go on to careers and graduate education in a wide range of fields, from business and government to education and the media. In addition to language skills, our programs provide students with talents that prove useful in many professions. You will graduate with strong experience in written and oral communication, multicultural and interpersonal relations, analytical and creative thinking, and research and information literacy.
-
 ## Make your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.   
 
