@@ -35,16 +35,18 @@ ___
  
 ___
 
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+<div class="container">
+ <div class="row">   
+  <div class="col s12 m6">{% include cards/card2-image.html
     title="Study Abroad in Asia and the Middle East"
     content="We strongly encourage our students to study for a semester or more in one of the countries they learn about in the Arabic, Asian Studies, Chinese and Japanese curriculums."
     image=""
     button-link="http://studyabroad.temple.edu/"
     button-text="Learn More" %}
   </div>
-    <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+<div class="container">
+ <div class="row">   
+  <div class="col s12 m6">{% include cards/card2-image.html
         title="Literature, Film and Popular Culture"
         content="With courses in Asian and Middle Eastern literature, film and pop culture, our department welcomes students from any major interested in developing familiarity with the cultures of China, Japan and the Middle East."
         image=""
