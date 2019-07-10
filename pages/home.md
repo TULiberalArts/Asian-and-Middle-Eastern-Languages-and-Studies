@@ -49,7 +49,6 @@ ___
       content="We're about more than language proficiency. With us, you'll develop a deep understanding of the politics, history and culture of the regions, acquiring the skills needed to connect globally."
       image=""
       button-link=""
-      button-text="" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
