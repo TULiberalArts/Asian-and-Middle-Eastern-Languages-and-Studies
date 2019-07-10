@@ -36,7 +36,27 @@ ___
 ___
 
 <div class="row row-wide">
-<div class="col m12 l4">{% include cards/card2-image.html title="Study Abroad in Asia and the Middle East" content="We strongly encourage our students to study for a semester or more in one of the countries they learn about in the Arabic, Asian Studies, Chinese and Japanese curriculums." image="" button-link="http://studyabroad.temple.edu/" button-text="Learn More" %}</div>
-<div class="col m12 l4">{% include cards/card2-image.html title="Connect With the World Around You" content="We're about more than language proficiency. With us, you'll develop a deep understanding of the politics, history and culture of the regions, acquiring the skills needed to connect globally." image="assets/img_gs_languages.png" button-link="https://www.ciee.org/" button-text="Learn More" %}</div>
-<div class="col m12 l4">{% include cards/card2-image.html title="Literature, Film and Popular Culture" content="With courses in Asian and Middle Eastern literature, film and pop culture, our department welcomes students from any major interested in developing familiarity with the cultures of China, Japan and the Middle East." image="assets/img_gs_globalecon.png" button-link="http://bulletin.temple.edu/undergraduate/liberal-arts/asian-middle-eastern-languages-studies/#courseinventory)" button-text="Learn More" %}</div>
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="Study Abroad in Asia and the Middle East"
+    content="We strongly encourage our students to study for a semester or more in one of the countries they learn about in the Arabic, Asian Studies, Chinese and Japanese curriculums."
+    image=""
+    button-link="http://studyabroad.temple.edu/"
+    button-text="Learn More" %}
+  </div>
+  <div class="row row-wide">
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="Connect With the World Around You"
+      content="We're about more than language proficiency. With us, you'll develop a deep understanding of the politics, history and culture of the regions, acquiring the skills needed to connect globally."
+      image=""
+      button-link=""
+      button-text="" %}
+    </div>
+    <div class="row row-wide">
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="Literature, Film and Popular Culture"
+        content="With courses in Asian and Middle Eastern literature, film and pop culture, our department welcomes students from any major interested in developing familiarity with the cultures of China, Japan and the Middle East."
+        image=""
+        button-link="http://bulletin.temple.edu/undergraduate/liberal-arts/asian-middle-eastern-languages-studies/#courseinventory"
+        button-text="Learn More" %}
+      </div>
 </div>
