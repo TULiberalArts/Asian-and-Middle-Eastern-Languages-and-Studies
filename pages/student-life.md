@@ -18,6 +18,6 @@ Studying your language abroad is a very good way to develop your overall linguis
 Explore [Study Abroad Programs](https://studyabroad.temple.edu/programs) by country.
 
 ## Foreign Language Placement, Waiver and Assessment Requests
-For questions about placement and waivers in our languages—Arabic, Chinese, Hebrew, Hindi, Japanese, and Korean—please email [asian_studies@temple.edu](mailto:asian_studies@temple.edu). 
+For questions about placement and waivers in our languages—Arabic, Chinese, Hebrew, Hindi, Japanese, and Korean—please email [amls@temple.edu](mailto:amls@temple.edu). 
 
 For questions regarding languages not offered at the university, please contact College of Liberal Arts, [Office of Academic Advising](https://www.cla.temple.edu/academic-advising/).
