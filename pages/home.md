@@ -37,7 +37,7 @@ ___
 
 <div class="container">
  <div class="row">   
-  <div class="col s12 m6">{% include cards/card2-image.html
+  <div class="col s12 m6">{% include cards/card2-basic.html
     title="Study Abroad in Asia and the Middle East"
     content="We strongly encourage our students to study for a semester or more in one of the countries they learn about in the Arabic, Asian Studies, Chinese and Japanese curriculums."
     image=""
@@ -46,7 +46,7 @@ ___
   </div>
 <div class="container">
  <div class="row">   
-  <div class="col s12 m6">{% include cards/card2-image.html
+  <div class="col s12 m6">{% include cards/card2-basic.html
         title="Literature, Film and Popular Culture"
         content="With courses in Asian and Middle Eastern literature, film and pop culture, our department welcomes students from any major interested in developing familiarity with the cultures of China, Japan and the Middle East."
         image=""
