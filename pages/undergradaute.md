@@ -42,7 +42,7 @@ Certificates of specialization in Arabic, Chinese, and Japanese help students de
  - Learn More About the [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-chinese/)<br>
  - Learn More About the [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-japanese/)<br>
 
-If you are interested in taking a course as a non-matriculated student, please contact the [Office of Continuing Education](http://www.temple.edu/academics/continuing-education).
+If you are interested in taking a course as a non-matriculated student, please contact the [Office of Continuing Education](https://www.temple.edu/vpus/arc/continuingstudies/index.html).
 
 ## Studies in Hebrew, Hindi and Korean
 We offer courses to help you develop a usable proficiency in [Hebrew](https://bulletin.temple.edu/undergraduate/courses/hebr/), [Hindi](https://bulletin.temple.edu/undergraduate/courses/hin/) and [Korean](https://bulletin.temple.edu/undergraduate/courses/krn/). With these skills, our students go on to careers in education, government, business and more. Students also use their knowledge of these languages to pursue advanced studies.
